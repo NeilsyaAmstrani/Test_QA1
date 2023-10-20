@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User melakukan Save tanpa mengisi form mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc2d38ad-f05c-4f07-a0df-bf454e0dea41</testCaseGuid>
+</TestCaseEntity>

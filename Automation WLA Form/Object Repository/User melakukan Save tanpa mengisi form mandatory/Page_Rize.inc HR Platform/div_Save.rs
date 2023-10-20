@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save</name>
+   <tag></tag>
+   <elementGuidId>52681f46-c539-4604-b796-00db4c2b419f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div/div/div/div/div[3]/div/div/form/div/table/thead/tr/td[8]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4dc03fb-1376-48eb-86a3-9daf81daa958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pl-3 btn btn-lg btn-primary bt100 btnRacc	</value>
+      <webElementGuid>ae9e7d29-e4db-4f46-8e13-bf12d881ab0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>01071d13-88e0-425b-a0fe-e6be299018ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main h-100 w-100 flex-column my-auto d-flex&quot;]/main[@class=&quot;main h-100 w-100&quot;]/div[@class=&quot;col-12 mx-auto h-100&quot;]/div[@class=&quot;row h-100&quot;]/div[@class=&quot;col-sm-10 col-md-12 mx-auto d-table h-100&quot;]/div[@class=&quot;d-table-cell align-middle&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;m-sm-4&quot;]/form[1]/div[@class=&quot;form-group&quot;]/table[@class=&quot;table wla-table rTProcMatrix&quot;]/thead[1]/tr[@class=&quot;rhiglight&quot;]/td[8]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;pl-3 btn btn-lg btn-primary bt100 btnRacc&quot;]</value>
+      <webElementGuid>eba394c7-4b8c-466d-979f-16e5613b81a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div/div/div/div/div[3]/div/div/form/div/table/thead/tr/td[8]/div/div</value>
+      <webElementGuid>d075176e-3d77-4ad3-974d-43483064e057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FTE'])[1]/following::div[1]</value>
+      <webElementGuid>2f8979cf-d3eb-47d1-a102-58687b9e8e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working Hours/Year'])[1]/following::div[2]</value>
+      <webElementGuid>14962984-4af2-497c-860e-e73c16b161fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Tanggung jawab/tugas pegawai sesuai dengan yang tertera pada uraian jabatan)'])[1]/preceding::div[1]</value>
+      <webElementGuid>92cfdce4-ae93-476c-890d-bb2069526230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>ec0664d6-0b6a-4543-bec8-82232e25bcb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/div</value>
+      <webElementGuid>2a4cc7be-cc10-4c08-879c-cbce7001176d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>dc3cc9f4-973f-4874-b18e-245c1bb66141</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

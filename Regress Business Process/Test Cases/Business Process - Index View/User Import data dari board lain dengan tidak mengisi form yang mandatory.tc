@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Import data dari board lain dengan tidak mengisi form yang mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8897ee0-3a4e-4a2c-bb18-fffd43f769bb</testCaseGuid>
+</TestCaseEntity>

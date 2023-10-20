@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat menambahkan form input baru dengan klik Icon Add disetiap category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb8b603a-895c-43ed-afb6-3b58b63d525c</testCaseGuid>
+</TestCaseEntity>

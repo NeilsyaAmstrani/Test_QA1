@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Standar Waktu Kerja_form-control form_a50bc9</name>
+   <tag></tag>
+   <elementGuidId>fb35414b-c632-4a3c-b966-2a97b076bc05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[1]/div/div/main/div/div/div/div[3]/div/div/form/div/div/div[2]/table/tbody/tr/td[1]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.form-control-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>24f01439-26b6-4a09-b82b-9734d1dbe307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>310ee8df-c3e5-410a-87b4-0d749c83d6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-sm</value>
+      <webElementGuid>e8dd9396-3fb5-48bc-8268-de260eab0c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Activity Name</value>
+      <webElementGuid>b27327a3-6cf1-46b3-8ae7-a702334eda70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group col-md-12&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[1]/input[@class=&quot;form-control form-control-sm&quot;]</value>
+      <webElementGuid>7e7ba1d6-4b45-4e15-a1f8-2a741c30c099</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[9]</value>
+      <webElementGuid>b8b6605d-af09-4e9c-88e9-3b6a04cd25ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[3]/div/div/form/div/div/div[2]/table/tbody/tr/td/input</value>
+      <webElementGuid>4b9f6d0e-9b11-4853-a8e4-ffc5e61e29d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/input</value>
+      <webElementGuid>f16ebba5-54f8-4567-80cf-29812c603293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Activity Name']</value>
+      <webElementGuid>98fd648b-c673-4d2c-bfce-0d8ef21435e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RegionTotal FTENumber of PeopleFTERecom_be1195</name>
+   <tag></tag>
+   <elementGuidId>272c53ee-b5dd-4e54-b029-576b254830c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card.rCard.flex-fill.w-100 > div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[5]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff8336b8-0e04-4e0a-9882-a31172943777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>7a1c414f-5781-4c33-bfe7-112f700aa504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RegionTotal FTENumber of PeopleFTERecommendation PeopleAdjusment MPPExpenditureMinMaxMeanMedianModusSUMAVGedit yukzz2.83180.071.140.400.140.14315.00Rp. 84.000.000Rp. 84.000.000Region 41.4240.051.420.730.051.4213.00Rp. 40.000.000Rp. 40.000.000Region A2.4930.0332.492.061.490.6121.00Rp. 11.500.000Rp. 11.500.000</value>
+      <webElementGuid>2db2d7c8-7d4e-46de-bb05-cd6d9923426c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content undefined&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 d-flex&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;card rCard flex-fill w-100&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>2a65e91c-a579-4a5d-9690-4a736cf3a83b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>e2fde813-e3dd-4dce-979a-a6d835c3ee93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Modus FTE'])[1]/following::div[9]</value>
+      <webElementGuid>c6cd3f9c-e966-4138-8f89-db370b9f0b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>1fadc91c-a59b-46e0-9649-36df644c971f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RegionTotal FTENumber of PeopleFTERecommendation PeopleAdjusment MPPExpenditureMinMaxMeanMedianModusSUMAVGedit yukzz2.83180.071.140.400.140.14315.00Rp. 84.000.000Rp. 84.000.000Region 41.4240.051.420.730.051.4213.00Rp. 40.000.000Rp. 40.000.000Region A2.4930.0332.492.061.490.6121.00Rp. 11.500.000Rp. 11.500.000' or . = 'RegionTotal FTENumber of PeopleFTERecommendation PeopleAdjusment MPPExpenditureMinMaxMeanMedianModusSUMAVGedit yukzz2.83180.071.140.400.140.14315.00Rp. 84.000.000Rp. 84.000.000Region 41.4240.051.420.730.051.4213.00Rp. 40.000.000Rp. 40.000.000Region A2.4930.0332.492.061.490.6121.00Rp. 11.500.000Rp. 11.500.000')]</value>
+      <webElementGuid>826e5830-d50a-43ee-b698-7685018ac8c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

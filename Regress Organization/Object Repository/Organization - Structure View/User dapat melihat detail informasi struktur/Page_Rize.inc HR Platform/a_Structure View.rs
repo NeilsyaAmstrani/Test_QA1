@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Structure View</name>
+   <tag></tag>
+   <elementGuidId>0247aa4e-e03b-4eb7-aa5c-4f8f491c2dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#org > li.sidebar-item > a.sidebar-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='org']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00f2542a-362c-40b7-b067-eef0b01d0fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-link</value>
+      <webElementGuid>c71bff1a-ff46-4e10-8308-36c01b7101f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/structure-view</value>
+      <webElementGuid>03bdb2bb-6f55-4a62-a78f-91e085bfe271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Structure View</value>
+      <webElementGuid>1da4e52f-0b6f-41ee-8244-509936f6a607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;org&quot;)/li[@class=&quot;sidebar-item&quot;]/a[@class=&quot;sidebar-link&quot;]</value>
+      <webElementGuid>b4729a77-1753-4eb5-87c8-b279911b357c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='org']/li/a</value>
+      <webElementGuid>ee001c62-ba21-4aec-95c4-b0a143bcc236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Structure View')]</value>
+      <webElementGuid>5ada06d8-629f-4e71-835b-5781e1a4e24f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organizations'])[1]/following::a[1]</value>
+      <webElementGuid>9f8eef4d-e937-4b4f-84e4-bf3d708f3733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Index View'])[1]/following::a[2]</value>
+      <webElementGuid>4bdb6c66-6ba2-4fc9-9598-4696c5a4a886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Index View'])[2]/preceding::a[1]</value>
+      <webElementGuid>492725d2-ac8a-4d4a-b2ae-64ebd235eb71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employees'])[1]/preceding::a[2]</value>
+      <webElementGuid>1d6f3af6-82df-4371-bd4e-bfda7ac8f172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Structure View']/parent::*</value>
+      <webElementGuid>e5639392-09b2-4ff8-a4a5-e0e30f1d776d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/structure-view')]</value>
+      <webElementGuid>9b1230e1-07d5-40f1-a0fd-b2ae87a2d163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>15e5eb78-be36-4b98-865e-6b03311871e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/structure-view' and (text() = 'Structure View' or . = 'Structure View')]</value>
+      <webElementGuid>addcaf7d-72d9-4e33-a271-8ac52d00f3d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

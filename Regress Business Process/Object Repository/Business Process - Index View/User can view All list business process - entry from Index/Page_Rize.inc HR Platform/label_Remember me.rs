@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Remember me</name>
+   <tag></tag>
+   <elementGuidId>84b9cf91-863b-4ef5-baaa-915d08cd8345</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/div/div/div[2]/div/div/form/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.custom-control-label.text-sm.user-select-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>96b1b502-70a3-4369-97dd-e0d2a6fbe647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label text-sm user-select-none</value>
+      <webElementGuid>14009e9b-ed84-4cb1-be8e-50af9c9fda58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>customCheck1</value>
+      <webElementGuid>dedc1b52-7e6d-4d5e-87f6-39c1f2981fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remember me</value>
+      <webElementGuid>ca4e3986-d942-48a7-bcaf-bfc67e9db877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/main[@class=&quot;main h-100 w-100 flex-column my-auto d-flex&quot;]/div[@class=&quot;container h-100 my-auto&quot;]/div[@class=&quot;row h-100&quot;]/div[@class=&quot;col-sm-8 col-md-6 col-lg-4 mx-auto d-table h-100&quot;]/div[@class=&quot;d-table-cell align-middle&quot;]/div[@class=&quot;card mt-2&quot;]/div[@class=&quot;card-body p-0&quot;]/div[@class=&quot;m-sm-4&quot;]/form[1]/div[@class=&quot;inline-div&quot;]/div[@class=&quot;custom-control custom-checkbox align-items-center mt-3 col-md-6&quot;]/label[@class=&quot;custom-control-label text-sm user-select-none&quot;]</value>
+      <webElementGuid>10ee0182-a0c8-4aac-9769-5822d05fbb51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/div/div/div[2]/div/div/form/div[3]/div/label</value>
+      <webElementGuid>2f0b3681-1043-41a4-bb7a-956635047911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::label[1]</value>
+      <webElementGuid>d03a204f-624f-47a4-b5f9-4b819bae7d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[1]</value>
+      <webElementGuid>76a96d2e-69e2-4bb8-bf7d-f8a2b71494f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::label[1]</value>
+      <webElementGuid>e51fb6eb-65e2-41a9-b574-26f6a206a47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now'])[1]/preceding::label[1]</value>
+      <webElementGuid>df2ce3e9-75d0-43b4-8a19-4ffdfff78c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remember me']/parent::*</value>
+      <webElementGuid>393208f0-025e-44d8-b67d-f4ee30a6fc01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>6c0462b5-bfc2-4e88-ac01-15b1ace7c390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Remember me' or . = 'Remember me')]</value>
+      <webElementGuid>bba73b1b-4154-4b83-95c4-b097d53c6f6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

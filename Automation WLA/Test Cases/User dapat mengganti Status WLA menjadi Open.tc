@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat mengganti Status WLA menjadi Open</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8d383b4-6b9c-415d-a7de-c10f2b95d60a</testCaseGuid>
+</TestCaseEntity>

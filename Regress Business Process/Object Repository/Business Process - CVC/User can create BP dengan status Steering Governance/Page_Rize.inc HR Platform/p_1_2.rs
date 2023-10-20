@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1_2</name>
+   <tag></tag>
+   <elementGuidId>a48d05b7-fde0-41aa-b61c-2963f9eea160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#output > div.ql-container.ql-snow > div.ql-editor.ql-blank > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='output']/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>61b3c571-80b1-4691-a3d9-f01bfad278ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;output&quot;)/div[@class=&quot;ql-container ql-snow&quot;]/div[@class=&quot;ql-editor ql-blank&quot;]/p[1]</value>
+      <webElementGuid>67e02685-ff58-4045-a40c-b3cee5014222</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='output']/div[2]/div/p</value>
+      <webElementGuid>8fdacc89-11b7-4746-920a-d68ab06c7746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Output'])[1]/following::p[1]</value>
+      <webElementGuid>ea1d8ae5-c9af-4e13-8fce-4e170f948a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Objective'])[1]/following::p[2]</value>
+      <webElementGuid>f7d1d5a9-dc01-4346-b35e-9259db1f9e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial'])[1]/preceding::p[1]</value>
+      <webElementGuid>6fcc0d33-94b8-4ba7-8910-834fcb23b6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Financial'])[1]/preceding::p[2]</value>
+      <webElementGuid>b1977558-9717-44dd-8190-dda81e2088bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/p</value>
+      <webElementGuid>872c038d-17f0-4c0e-bcec-60fbcddb4dcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

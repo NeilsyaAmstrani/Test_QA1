@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NameRange StartRange EndColor CodeIs An_fb13be</name>
+   <tag></tag>
+   <elementGuidId>ad22744f-b7a7-45f4-82c8-d63f6f220df7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body.m-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addWTModal']/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e24a2217-941b-4688-88ab-13d993016664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body m-2</value>
+      <webElementGuid>dcaa1c5b-da3e-45d2-8f41-0ada35ab4c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NameRange StartRange EndColor CodeIs AnomalyCancelSubmit</value>
+      <webElementGuid>d3d94591-317d-4b9a-9dbc-5c7baf3e15e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@id=&quot;addWTModal&quot;]/div[@class=&quot;modal-sm mx-auto my-auto h-100 d-flex&quot;]/div[@class=&quot;modal-content my-auto&quot;]/form[1]/div[@class=&quot;modal-body m-2&quot;]</value>
+      <webElementGuid>5cbad7af-5e3a-4f75-b84c-3e35014328d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addWTModal']/div/div/form/div</value>
+      <webElementGuid>802f5ff1-fa11-4600-a1cf-ce0d291efd54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wlappn123@gmail.com'])[1]/following::div[7]</value>
+      <webElementGuid>5a76ca77-58ce-4e36-b6a1-aa3b335be4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div</value>
+      <webElementGuid>ba7f3e4f-5bdf-4383-9fb1-3785266df1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NameRange StartRange EndColor CodeIs AnomalyCancelSubmit' or . = 'NameRange StartRange EndColor CodeIs AnomalyCancelSubmit')]</value>
+      <webElementGuid>52eca6bf-c571-4c74-b54f-1b5abe1343ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

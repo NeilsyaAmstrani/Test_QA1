@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Keuangan</name>
+   <tag></tag>
+   <elementGuidId>753bb525-c763-4dc5-a47f-92dcae06da17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.table.table-striped.table-hover.mt-3 > tbody > tr > td > button.btn.btn-md.btn-primary.bt100.btnRacc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[44]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f658d17e-7479-4dfb-948d-4d874d1d9ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3b82b0e-b5af-4c8e-95bc-5aa1f2774d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-primary bt100 btnRacc</value>
+      <webElementGuid>85d75f05-6c5f-49d0-8ce5-cf6767df2b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Keuangan</value>
+      <webElementGuid>d8378702-66fd-4318-9c64-c568d1826b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group&quot;]/table[@class=&quot;table table-striped table-hover mt-3&quot;]/tbody[1]/tr[1]/td[1]/button[@class=&quot;btn btn-md btn-primary bt100 btnRacc&quot;]</value>
+      <webElementGuid>9b8dfa5b-e402-42f6-8ea6-1c59591746ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[44]</value>
+      <webElementGuid>10ee5ae8-5eb8-41a0-966e-462fabf38984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[3]/div/div/form/div/div/div/table[2]/tbody/tr/td/button</value>
+      <webElementGuid>74ed2160-8698-465f-9857-ca6341a39d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Keuangan'])[1]/following::button[1]</value>
+      <webElementGuid>abdb78d0-7a60-477b-82f4-6932bd38ead7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuangan'])[1]/following::button[1]</value>
+      <webElementGuid>8b0674b8-afdd-4501-be90-c2893a82955c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Non-Keuangan'])[1]/preceding::button[1]</value>
+      <webElementGuid>2850193d-ab4a-4b68-a6d1-36617edd1e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masalah dan Tantangan Kerja'])[1]/preceding::button[2]</value>
+      <webElementGuid>6a64216d-429a-472e-8f2f-e647f354772b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Keuangan']/parent::*</value>
+      <webElementGuid>6ed2ed96-55b7-4c66-bad0-c1a420762641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td/button</value>
+      <webElementGuid>4f8a6059-6c04-473c-89cf-a361bc2b181d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Keuangan' or . = 'Add Keuangan')]</value>
+      <webElementGuid>76e56e6f-e159-4909-8a5f-47e09545c139</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

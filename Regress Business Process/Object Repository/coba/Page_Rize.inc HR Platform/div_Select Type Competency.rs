@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Type Competency</name>
+   <tag></tag>
+   <elementGuidId>e527770f-4fae-42e0-bb0c-e7fdac0f5a9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div/div[6]/div[3]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90734594-c0f8-497f-a87a-d3aecd21a2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-hlgwow</value>
+      <webElementGuid>ed1996a0-87dd-4658-9374-f134aa168bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Type Competency</value>
+      <webElementGuid>43ce53d2-84d1-4dde-b909-64711448f96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-row mb-2&quot;]/div[@class=&quot;form-group col-md-6&quot;]/div[@class=&quot;d-flex flex-row justify-content-start mb-3&quot;]/div[@class=&quot;col-3 m-0 p-0 css-b62m3t-container&quot;]/div[@class=&quot;css-t3ipsp-control&quot;]/div[@class=&quot;css-hlgwow&quot;]</value>
+      <webElementGuid>f821dbfe-5c18-4bb0-8f9f-58f84d45bb2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div/div[6]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>95471215-2b29-4875-8cb5-abb50de16c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pssst x'])[1]/following::div[6]</value>
+      <webElementGuid>e5295d2b-b9c5-448f-b098-16879903e9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Competencies'])[1]/following::div[11]</value>
+      <webElementGuid>391ab4f4-dbff-498a-b043-9261fdf2a57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Grade Competency'])[1]/preceding::div[9]</value>
+      <webElementGuid>83014958-8164-47e2-b6e0-4483d316c29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>8247e2d5-f6f1-408d-ad73-f585ed508b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Type Competency' or . = 'Select Type Competency')]</value>
+      <webElementGuid>f18e7b93-380e-4f62-96a5-3603f361df81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div/div[5]/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>df98281c-a807-49a6-b908-b204d8d80849</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to see all existing worker type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e75ed9be-7e29-4443-9e91-ced5b73e57b5</testCaseGuid>
+</TestCaseEntity>

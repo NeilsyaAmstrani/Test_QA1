@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Category_fa fa-plus rTreeCollapse   mr-2</name>
+   <tag></tag>
+   <elementGuidId>20791853-5720-49dd-8be3-46706225fe67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>be451f2a-d4b1-4add-bd70-e27292a94c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-minus back rTreeCollapse   mr-2 </value>
+      <webElementGuid>d83b504a-30c3-41e2-abea-d7c34f2910f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bcfb3905-798d-4535-af98-0c49a5542072&quot;)/td[1]/div[1]/i[@class=&quot;fa fa-minus back rTreeCollapse   mr-2&quot;]</value>
+      <webElementGuid>1e3a8b98-f603-4504-ace5-6b32cb1d9568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td/div/i</value>
+      <webElementGuid>4bc00ec3-f925-4cd6-a4ed-0bcd2cd4e890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/i</value>
+      <webElementGuid>e78dd478-143d-42a3-9895-76f85b600e4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='6f1bad16-7ff2-4a77-ab5d-e32b92b3a0da']/td/div/i</value>
+      <webElementGuid>5d8f7ead-4904-4094-8677-e06eb72271c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/i</value>
+      <webElementGuid>ca875e16-2a1b-4fb3-9089-049cff321b08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

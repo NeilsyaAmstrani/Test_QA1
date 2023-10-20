@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Worker Type</name>
+   <tag></tag>
+   <elementGuidId>034087b1-1fd1-4e14-a132-560c84302e76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30e31c14-ef4f-4a7e-82b4-187d6317ea51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary float-right btnRsec</value>
+      <webElementGuid>54749e34-9a15-4f7e-9c7b-43bc76d07909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>67564e02-5f47-4bb2-833b-9fcff4c30a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#addWTModal</value>
+      <webElementGuid>73e55865-44d5-4e3b-99c6-a760a7a531f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Worker Type</value>
+      <webElementGuid>8e2bcb39-8216-47d5-aa31-0a6d8769db67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;horizontal-icon-tab-1&quot;]/div[@class=&quot;row my-3&quot;]/div[@class=&quot;col-4&quot;]/button[@class=&quot;btn btn-primary float-right btnRsec&quot;]</value>
+      <webElementGuid>b8d60942-dc22-4b8c-9eb5-4af86da52e50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[4]</value>
+      <webElementGuid>efc74c66-877c-4b8b-ad63-be375cd208f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Worker Type'])[2]/following::button[1]</value>
+      <webElementGuid>047d42df-8b6f-42b8-b7a6-ab6ccca1a17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Update'])[2]/following::button[1]</value>
+      <webElementGuid>080574bc-fc23-4749-8700-754e51d35911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[4]/preceding::button[1]</value>
+      <webElementGuid>526076e9-ba6d-4cf5-9fdc-8a26dbfd180b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::button[1]</value>
+      <webElementGuid>86913b16-1803-4a6f-8e0d-8f72daafd59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Worker Type']/parent::*</value>
+      <webElementGuid>afe42910-7b0f-4a65-8f84-8027b43c5025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/button</value>
+      <webElementGuid>ff2712ce-1fa2-481b-935f-239edf5f6989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Worker Type' or . = 'Add Worker Type')]</value>
+      <webElementGuid>3f69658b-95e6-4d5f-ae22-b05b3496ea2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

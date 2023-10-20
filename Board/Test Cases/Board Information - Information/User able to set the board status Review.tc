@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to set the board status Review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3bf384-d15a-4838-88c7-5091ec801d27</testCaseGuid>
+</TestCaseEntity>

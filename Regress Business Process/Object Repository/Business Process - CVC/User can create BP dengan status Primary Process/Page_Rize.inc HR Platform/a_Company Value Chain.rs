@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Company Value Chain</name>
+   <tag></tag>
+   <elementGuidId>4b78bb07-d4a4-401f-8dc5-c0564000b7fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#business_process > li.sidebar-item > a.sidebar-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='business_process']/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c83fd91-0409-4e44-bf61-974c5411bc47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-link</value>
+      <webElementGuid>195837e9-1968-44e6-908f-1fafd123e3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-process/cvc</value>
+      <webElementGuid>84c6ecc9-6e61-46b6-8fa6-3d2e4379e6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company Value Chain</value>
+      <webElementGuid>34938f37-b65d-4caf-ad92-1715af848f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;business_process&quot;)/li[@class=&quot;sidebar-item&quot;]/a[@class=&quot;sidebar-link&quot;]</value>
+      <webElementGuid>bf75f4c5-f281-44b5-acf8-277a2385a9eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='business_process']/li/a</value>
+      <webElementGuid>3bdea3a3-7426-4c2e-ac72-a3763dbe6e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Company Value Chain')]</value>
+      <webElementGuid>3d2bfc81-38bf-45ef-93cc-8ca3363a1019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Process'])[1]/following::a[1]</value>
+      <webElementGuid>bd2ce1f3-6c9a-4fb6-a118-e8b8d52faf16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>26961268-2b35-4455-a589-7ddaa4d389b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tree View'])[1]/preceding::a[1]</value>
+      <webElementGuid>6edf8358-67c1-4aac-a249-5a07d8ee0d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Index View'])[1]/preceding::a[2]</value>
+      <webElementGuid>f4d8e6ac-f2a4-4119-a21c-cc9dbfd45044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Company Value Chain']/parent::*</value>
+      <webElementGuid>18ddc11e-51dd-448d-aa0e-94045f539c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-process/cvc')]</value>
+      <webElementGuid>c05c1fc6-6b76-4d57-9da4-9db504676441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/a</value>
+      <webElementGuid>8f564533-75be-429e-8d3a-9f5b0bdcc037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-process/cvc' and (text() = 'Company Value Chain' or . = 'Company Value Chain')]</value>
+      <webElementGuid>32575eea-11fd-4cc8-a19c-a16800a0e53c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>d5efb6c7-6caa-4464-a53d-a3ee4b82e355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ql-editor.ql-blank > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='non_financial']/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a0c3f204-81ea-4938-958d-0a1526786235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;non_financial&quot;)/div[@class=&quot;ql-container ql-snow&quot;]/div[@class=&quot;ql-editor ql-blank&quot;]/p[1]</value>
+      <webElementGuid>8ff95c75-f5c4-44be-8360-b9fcb5b7b147</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='non_financial']/div[2]/div/p</value>
+      <webElementGuid>430f36c0-87e7-4c22-a6a5-d80dd748d512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Financial'])[1]/following::p[1]</value>
+      <webElementGuid>60d29c2a-748d-4097-b260-cdfe74a699c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial'])[1]/following::p[2]</value>
+      <webElementGuid>e129324b-c57b-4fcd-b734-31a09f661991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Behaviour Competencies'])[1]/preceding::p[1]</value>
+      <webElementGuid>d52565bb-5a6c-4008-96b0-8cc631ab0b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Behaviour Competencies'])[1]/preceding::p[2]</value>
+      <webElementGuid>db5e0385-7e6b-406a-a69d-9a45b8bcc08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/p</value>
+      <webElementGuid>3db36fef-397c-4232-9266-486bf7963656</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

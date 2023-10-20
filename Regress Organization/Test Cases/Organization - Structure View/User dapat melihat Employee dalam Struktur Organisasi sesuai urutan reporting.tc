@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat Employee dalam Struktur Organisasi sesuai urutan reporting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00ab7663-0d17-4245-8552-b6200cb56117</testCaseGuid>
+</TestCaseEntity>

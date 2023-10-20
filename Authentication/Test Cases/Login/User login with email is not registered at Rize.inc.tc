@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User login with email is not registered at Rize.inc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ce58284-25d5-4e7f-b3ba-74de71c693c6</testCaseGuid>
+</TestCaseEntity>

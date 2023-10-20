@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>line</name>
+   <tag></tag>
+   <elementGuidId>4e078b6c-d981-4992-8839-202e55b2a2df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.feather.feather-maximize-2.align-middle > line</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>line</value>
+      <webElementGuid>aca689be-3d1b-47f5-91f8-df1e7f7413cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x1</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>b3f94ec6-9f17-44c9-b236-5a519313df03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y1</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>5fd6fc07-8cde-4287-9b7c-90e7129567a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x2</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>af006ed8-4c34-43c9-a753-a8bb1c56e173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y2</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>d8d62c42-518a-46da-bac3-d57f388bd21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;card-actions float-right pt1&quot;]/button[@class=&quot;btn btn-primary float-right btnRsec&quot;]/svg[@class=&quot;feather feather-maximize-2 align-middle&quot;]/line[1]</value>
+      <webElementGuid>914a8c6c-3635-4b45-96b6-1c8bc4fa7a0c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

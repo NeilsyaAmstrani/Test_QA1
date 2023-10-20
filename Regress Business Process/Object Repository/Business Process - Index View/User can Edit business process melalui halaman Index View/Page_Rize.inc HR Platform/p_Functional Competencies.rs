@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Functional Competencies</name>
+   <tag></tag>
+   <elementGuidId>62fef503-04dd-4a88-be02-0013d39f7153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div/div[5]/div[3]/div[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4a36053c-4b40-4abf-92e5-e27b4a16e8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Functional Competencies</value>
+      <webElementGuid>e8773830-4234-4db0-bdf7-6ab992e4b184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane edit&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-row mb-2&quot;]/div[@class=&quot;form-group col-md-6&quot;]/div[@class=&quot;quill&quot;]/div[@class=&quot;ql-container ql-snow&quot;]/div[@class=&quot;ql-editor&quot;]/p[1]</value>
+      <webElementGuid>8ffb8a89-41ba-43ab-9603-39e4a2a06b30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div/div[5]/div[3]/div[2]/div[2]/div/p</value>
+      <webElementGuid>72e52761-aa76-406e-a7b9-63e6a2b7c36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Grade Competency'])[1]/following::p[1]</value>
+      <webElementGuid>138dd2a8-ca86-485e-b03b-a24aa9de5c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type Competency'])[1]/following::p[1]</value>
+      <webElementGuid>b6ef9537-1edf-4498-a4fe-5dacd631ee69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workload Standard'])[1]/preceding::p[1]</value>
+      <webElementGuid>97088e20-e742-4b86-8d7f-8b3997e36f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/p</value>
+      <webElementGuid>7b56a4b1-41c8-4251-8755-c723ce717b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Functional Competencies' or . = 'Functional Competencies')]</value>
+      <webElementGuid>ddc81737-97b1-49d5-adbd-5877aac1b6a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

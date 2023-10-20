@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_R</name>
+   <tag></tag>
+   <elementGuidId>32d5f96b-66bc-4e78-9c54-9f5b49af447c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div[2]/div/table[3]/tbody/tr/td[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-pill.btnRLv2.badge.w-100.arcesi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>16307d99-d504-4e36-a127-6bebfb8f3549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill btnRLv2 badge w-100 arcesi</value>
+      <webElementGuid>38c1447d-cd8d-4350-b0ce-42d3485427f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cell</name>
+      <type>Main</type>
+      <value>Responsible</value>
+      <webElementGuid>dc505e8d-6f06-476c-8043-e20f50004c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>R</value>
+      <webElementGuid>11457f0f-95e6-4576-af00-0428c960d5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body rTMatrixCont p-0 pt-3&quot;]/div[@class=&quot;mb-4 inline-div rTMainMatrix&quot;]/table[@class=&quot;table col-1 table-striped table-hover rTOther rTOtherMatrix ml-2&quot;]/tbody[1]/tr[@class=&quot;false&quot;]/td[@class=&quot;false&quot;]/div[@class=&quot;dropdown-menu rMatrixOpt rSoftSHD show&quot;]/button[@class=&quot;btn btn-pill btnRLv2 badge w-100 arcesi&quot;]</value>
+      <webElementGuid>5fe0ec35-74e8-470b-877a-9ff8607c003b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div[2]/div/table[3]/tbody/tr/td[2]/div/button[2]</value>
+      <webElementGuid>803127c5-141c-49c3-b234-e1f45b1ffaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[9]/following::button[1]</value>
+      <webElementGuid>efeb1859-2696-4ceb-8d80-5cbaa7428f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[2]</value>
+      <webElementGuid>6aa96e62-4846-400f-a1b7-286c8da9965d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R*'])[1]/preceding::button[1]</value>
+      <webElementGuid>e12ebca6-ad27-47a7-ae29-8f19c9eadf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[1]/preceding::button[2]</value>
+      <webElementGuid>773d6cb6-2ae7-4b54-9a31-2bd1b525f54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button[2]</value>
+      <webElementGuid>1d564c89-d84e-4e2e-8acb-0167a744db86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'R' or . = 'R')]</value>
+      <webElementGuid>a07f436f-9268-4f5d-b507-af38c4285bd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

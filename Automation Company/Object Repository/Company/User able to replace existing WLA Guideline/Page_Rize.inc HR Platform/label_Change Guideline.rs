@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Change Guideline</name>
+   <tag></tag>
+   <elementGuidId>5907d69d-39f0-427d-bd05-057cb8f28643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.pl-2.text-sm.d-flex.my-auto.text-white.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[3]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8e20e408-b720-4281-8c28-fd478b65f9ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>file_guideline</value>
+      <webElementGuid>ac728ce4-a56f-443b-b2d1-eab2133786c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pl-2 text-sm d-flex my-auto text-white pointer</value>
+      <webElementGuid>64301083-1e2c-4232-ab15-c5e785a862f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Guideline</value>
+      <webElementGuid>119cb95d-12f4-4fb0-832c-8244bb9fc6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-1&quot;)/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex flex-row btn-guideline mt-3 pointer&quot;]/label[@class=&quot;pl-2 text-sm d-flex my-auto text-white pointer&quot;]</value>
+      <webElementGuid>3490fa73-bcbd-4913-b5c8-99fcefe36360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[3]/div[2]/label</value>
+      <webElementGuid>a9b06ef7-c3af-4475-9b2b-a1d20076921a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/wla_guideline_doc/2023-09-14/881ba4f3a2abb693b05c3d8334a1a8bf-2023-09-14.pdf'])[1]/following::label[1]</value>
+      <webElementGuid>06b6f0dc-4774-4fe6-a390-540c722ac058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guideline Module'])[1]/following::label[1]</value>
+      <webElementGuid>d9313cd5-6c31-4ae3-80bd-d662868bf19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
+      <webElementGuid>2d44df09-5aaf-41e2-a090-3a88cd8d461e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Member'])[1]/preceding::label[1]</value>
+      <webElementGuid>721453ab-f475-49b1-8002-b40071ebc424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Change Guideline']/parent::*</value>
+      <webElementGuid>a9d993ca-f973-4917-8d97-7756541f8701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/label</value>
+      <webElementGuid>d5dcb7fc-8068-4482-b4ff-cc5d234cf370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Change Guideline' or . = 'Change Guideline')]</value>
+      <webElementGuid>a13af297-5dc5-4a83-9fd9-1f181eeaf394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pertamina Patra Niaga</name>
+   <tag></tag>
+   <elementGuidId>ff03f0fe-30e3-499b-b12b-e5186b1ee49e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c4d9966-b45d-455a-bd22-7a792107c2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-dark</value>
+      <webElementGuid>19ae2412-777b-459a-86db-c7d076174299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pertamina Patra Niaga </value>
+      <webElementGuid>bbf15c50-c370-4c9e-a60f-18d403ff57d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/nav[@class=&quot;navbar navbar-expand navbar-light bg-white sticky-top&quot;]/a[@class=&quot;rNoDecoLink&quot;]/span[@class=&quot;text-dark&quot;]</value>
+      <webElementGuid>593ce44a-50c3-48aa-898e-483a9df48002</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/a[2]/span</value>
+      <webElementGuid>539aff06-c2fa-4466-b8d3-72f4e8dcb0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status WLA'])[1]/following::span[1]</value>
+      <webElementGuid>b55474cf-dc03-4a23-b42e-b2dbeafe67fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::span[1]</value>
+      <webElementGuid>5b4199a5-8029-4bed-be01-b3f24988bac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pertamina Patra Niaga']/parent::*</value>
+      <webElementGuid>3aa0f896-c826-4067-8283-47013f3b312b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>61befe58-ff4c-45af-b8a4-996983a06661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pertamina Patra Niaga ' or . = 'Pertamina Patra Niaga ')]</value>
+      <webElementGuid>d07c3a5c-650e-4d77-8060-99463df8e027</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

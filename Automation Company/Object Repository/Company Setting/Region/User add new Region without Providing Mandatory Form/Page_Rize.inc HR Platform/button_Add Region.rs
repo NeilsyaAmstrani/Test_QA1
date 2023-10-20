@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Region</name>
+   <tag></tag>
+   <elementGuidId>a29cc0e1-b55d-45d7-a91a-6f322a471afa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>153d2e18-a1af-474e-b04f-b9192b6cb220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary float-right btnRsec</value>
+      <webElementGuid>f57e03ec-2f6c-402a-b56b-ce3c1ec6e2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>cb4d490c-94e9-4c0d-bfc3-36f4e01d5082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#addWTModal</value>
+      <webElementGuid>0ad5a4ae-2e8d-433b-a82e-42c211df9c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Region</value>
+      <webElementGuid>2f95d970-c1d0-4413-97e2-291a6575d474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;horizontal-icon-tab-1&quot;]/div[@class=&quot;row my-3&quot;]/div[@class=&quot;col-4&quot;]/button[@class=&quot;btn btn-primary float-right btnRsec&quot;]</value>
+      <webElementGuid>fb4fd75b-b9ba-4c79-9731-c17acc0f9b93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[3]</value>
+      <webElementGuid>02208800-4bd9-4a5b-81a1-013f56ba81ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[2]/following::button[1]</value>
+      <webElementGuid>5780f867-f8d5-498f-a321-77d5239af730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/following::button[1]</value>
+      <webElementGuid>65ac1245-d0eb-4516-b42e-19d34c335d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/preceding::button[1]</value>
+      <webElementGuid>df05fabe-3367-4a58-8754-b6e9a7edb703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[4]/preceding::button[1]</value>
+      <webElementGuid>40caf686-577b-4439-8759-10bcb46ec5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Region']/parent::*</value>
+      <webElementGuid>91132cca-73c3-4c3b-8446-990ec61960eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button</value>
+      <webElementGuid>2a5c02be-6c12-4430-a809-5f7403d9cca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Region' or . = 'Add Region')]</value>
+      <webElementGuid>e4ae032e-cd26-4a03-9669-68709cbc2813</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Pertamina Patra Niaga Company A Company_abf1a9</name>
+   <tag></tag>
+   <elementGuidId>f133e00d-5254-417d-8901-f9a8909d8c66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.navbar.navbar-expand.navbar-light.bg-white.sticky-top</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>2e8a8831-1c71-4de4-9ffc-5cf2ccd29a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar navbar-expand navbar-light bg-white sticky-top</value>
+      <webElementGuid>d69136fc-15aa-4912-94ed-54c1a9e0f04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pertamina Patra Niaga Company A Company B Company C Company DENIN Pertamina Patra NiagaProfileHelpSign out</value>
+      <webElementGuid>af2c29d3-87ca-4020-96d3-1a52b0031b3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/nav[@class=&quot;navbar navbar-expand navbar-light bg-white sticky-top&quot;]</value>
+      <webElementGuid>4021246c-b377-4093-adb0-8bdb3575f223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav</value>
+      <webElementGuid>264a6e34-2526-454d-bd5e-7b7467a99864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status WLA'])[1]/following::nav[1]</value>
+      <webElementGuid>449276c7-3b33-49e4-98f8-d58793f029e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/following::nav[1]</value>
+      <webElementGuid>7891575f-83d9-4bb3-a93d-4175b392eef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/nav</value>
+      <webElementGuid>6890cfe8-1704-462f-930b-1487bae9348b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Pertamina Patra Niaga Company A Company B Company C Company DENIN Pertamina Patra NiagaProfileHelpSign out' or . = 'Pertamina Patra Niaga Company A Company B Company C Company DENIN Pertamina Patra NiagaProfileHelpSign out')]</value>
+      <webElementGuid>e0d2c451-7958-4d60-b21f-534120bba2eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

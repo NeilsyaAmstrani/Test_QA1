@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat data jumlah Employee yang sudah mengisi WLA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a550b682-1ab5-4557-b182-63179e53f64e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Edit Data_fa fa-plus rTreeCollapse   mr-2_1</name>
+   <tag></tag>
+   <elementGuidId>6bda3bda-2354-425a-9147-de1786c440c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='d2f30480-e6ab-4a08-876a-db835a82a1ec']/td/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5d813209-233d-4e8f-b9d6-cbcdf33ce582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus rTreeCollapse   mr-2 </value>
+      <webElementGuid>ca67c2f5-1bbe-4bc7-9092-a83d8849d242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d2f30480-e6ab-4a08-876a-db835a82a1ec&quot;)/td[1]/div[1]/i[@class=&quot;fa fa-plus rTreeCollapse   mr-2&quot;]</value>
+      <webElementGuid>f1bb4ccd-1f0a-4085-9d13-0fd3ec31cb29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='d2f30480-e6ab-4a08-876a-db835a82a1ec']/td/div/i</value>
+      <webElementGuid>d1bd01a0-2305-4b43-828d-b58ab3b6c7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/i</value>
+      <webElementGuid>094bd2ad-a294-48d4-b83e-769052c4f516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

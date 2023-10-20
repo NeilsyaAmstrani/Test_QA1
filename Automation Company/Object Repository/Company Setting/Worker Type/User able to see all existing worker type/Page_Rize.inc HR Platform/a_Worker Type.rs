@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Worker Type</name>
+   <tag></tag>
+   <elementGuidId>92bf2e4b-d272-4299-ac07-58800080adbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.show.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-icon-tab-3']/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20526734-7285-40c5-916f-ef7ad38e5a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6ff5b944-3c66-4378-93b9-4d6221ee5b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link show active</value>
+      <webElementGuid>bab0ca7a-cfa1-45ca-8590-1ee0ba4d76b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>fc2f058f-e1ea-4aa3-b2c6-9a6cf758f319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>65884b3a-fa9f-4860-a86e-62d32bd2d6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b3b20321-2efc-43b5-9cec-731142956652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Worker Type</value>
+      <webElementGuid>f59404ee-fd41-4fb9-83e2-e706b128f09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/ul[@class=&quot;nav nav-tabs inner&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link show active&quot;]</value>
+      <webElementGuid>eb4706dc-081d-4a67-8c18-3a1f3fcf5f57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-icon-tab-3']/div[2]/ul/li/a</value>
+      <webElementGuid>14ff5f31-b27c-4e90-98c8-573d2568abce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Worker Type')]</value>
+      <webElementGuid>08753159-eabb-4826-ad78-83a2318a7d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wlappn123@gmail.com'])[1]/following::a[1]</value>
+      <webElementGuid>0711d8f8-cb65-4fdc-a92f-9dad47e32346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WLA PPN 123'])[1]/following::a[1]</value>
+      <webElementGuid>2ad23e44-b78d-4541-8d6f-7ec7cda770aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Type'])[1]/preceding::a[1]</value>
+      <webElementGuid>222cfa0b-56c1-4a9e-bcee-c1241bf795cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FTE Limit'])[1]/preceding::a[2]</value>
+      <webElementGuid>5873f3a8-be04-41b6-bae1-5c56d4089cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Worker Type']/parent::*</value>
+      <webElementGuid>4d885488-8017-42b3-96d5-8bfea4d306fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/ul/li/a</value>
+      <webElementGuid>e4441b11-875e-42f6-94b0-ef8fd4d93655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Worker Type' or . = 'Worker Type')]</value>
+      <webElementGuid>4cda77b0-8856-4589-901f-7a19ac40e3a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

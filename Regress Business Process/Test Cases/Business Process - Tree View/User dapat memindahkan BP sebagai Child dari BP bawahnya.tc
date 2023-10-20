@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat memindahkan BP sebagai Child dari BP bawahnya</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1dd5f34-c576-4871-81ad-53756c885c0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Change to Parent_addDropdown</name>
+   <tag></tag>
+   <elementGuidId>c7d77d35-1f9d-45a8-bc9c-85437fcec218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addDropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addDropdown']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>008dece4-54b7-4287-9258-e804f46f0bc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addDropdown</value>
+      <webElementGuid>c6d0a039-3c23-4441-8084-dfd40891cd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill rTreeAdd dropdown-toggle </value>
+      <webElementGuid>6063e451-ce4f-4040-a9c1-32fa99837fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>0e1cfea2-bd87-4248-acbc-11a4006019ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bcfb3905-798d-4535-af98-0c49a5542072&quot;)/td[4]/div[@class=&quot;btn-group my-1&quot;]/button[@id=&quot;addDropdown&quot;]</value>
+      <webElementGuid>5359e327-69d5-4f27-89c5-2d5ba8d5b0ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addDropdown']</value>
+      <webElementGuid>a167a8ac-5a54-4959-ba29-39a830ac959a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[4]/div[2]/button</value>
+      <webElementGuid>8ac067a6-c602-4f2e-b5f3-d44c680cf304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change to Parent'])[1]/following::button[1]</value>
+      <webElementGuid>f732811c-fa89-4670-8075-e3fb622558eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child of Previous'])[1]/following::button[1]</value>
+      <webElementGuid>ba3ca5df-8984-46ae-a12c-8cdeaf09e63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Next'])[1]/preceding::button[1]</value>
+      <webElementGuid>60a265d3-e142-4937-af4b-dd329696f910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Previous'])[1]/preceding::button[1]</value>
+      <webElementGuid>bff86839-7679-42fe-9fe7-8eb2b5d49a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>2098e96d-7304-49f1-91f5-96fbe97dd285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addDropdown']</value>
+      <webElementGuid>38f76d10-6008-4c95-b977-d48f74a65443</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melakukan filtering employee by Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6604c1e-a236-42b3-b72f-5225b484994e</testCaseGuid>
+</TestCaseEntity>

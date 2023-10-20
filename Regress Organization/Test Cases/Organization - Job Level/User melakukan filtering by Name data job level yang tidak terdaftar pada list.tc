@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User melakukan filtering by Name data job level yang tidak terdaftar pada list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3b25ffb-1a3c-4397-a7a6-3b54b84440be</testCaseGuid>
+</TestCaseEntity>

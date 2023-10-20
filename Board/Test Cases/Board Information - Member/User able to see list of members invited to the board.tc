@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to see list of members invited to the board</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4a979b3-bae3-4ec6-9d42-f87fd536da00</testCaseGuid>
+</TestCaseEntity>

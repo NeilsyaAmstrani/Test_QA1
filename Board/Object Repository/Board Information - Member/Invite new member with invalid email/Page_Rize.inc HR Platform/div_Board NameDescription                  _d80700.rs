@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Board NameDescription                  _d80700</name>
+   <tag></tag>
+   <elementGuidId>46a3b94e-05b0-44f9-b0bc-5e9376ccab41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/main/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>619acb6a-a030-4e28-8e03-fc99844d899c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-content</value>
+      <webElementGuid>58fce290-0e9e-4e21-a265-901493ff0070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Board NameDescription                                      Set As Public BoardSubmitNameSelect options_ReadreadwriteadmininviteadminNeilsya Amstrani Maulidatul Hijriyahneilsyaams0902@gmail.comDelete Member×Delete Member undefined?CancelContinue</value>
+      <webElementGuid>8945bca5-88ea-4334-baf9-9002098feee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/div[1]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;tab tab-vertical&quot;]/div[@class=&quot;tab-content&quot;]</value>
+      <webElementGuid>47e593fc-01d0-4c40-b44a-02190a4605ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/main/div/div/div/div[3]/div</value>
+      <webElementGuid>ce34f587-3792-4a9f-be54-7c754c891bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member'])[1]/following::div[1]</value>
+      <webElementGuid>6a98b1ad-c72b-4de3-ae20-930384d3c903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[1]</value>
+      <webElementGuid>ab2e813a-e889-4997-8d06-d761b7efc604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div</value>
+      <webElementGuid>758483f9-768b-4014-bf09-2abdd20e258c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Board NameDescription                                      Set As Public BoardSubmitNameSelect options_ReadreadwriteadmininviteadminNeilsya Amstrani Maulidatul Hijriyahneilsyaams0902@gmail.comDelete Member×Delete Member undefined?CancelContinue' or . = 'Board NameDescription                                      Set As Public BoardSubmitNameSelect options_ReadreadwriteadmininviteadminNeilsya Amstrani Maulidatul Hijriyahneilsyaams0902@gmail.comDelete Member×Delete Member undefined?CancelContinue')]</value>
+      <webElementGuid>6b42e6e3-24f9-4ed1-958d-c6a10cefb268</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

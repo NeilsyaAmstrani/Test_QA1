@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Change Guideline</name>
+   <tag></tag>
+   <elementGuidId>d406cf4e-0dd1-4cf5-83e1-8543d30c0a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-row.btn-guideline.mt-3.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f111206-b831-4a6a-9294-b9cdf2e0b39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex flex-row btn-guideline mt-3 pointer</value>
+      <webElementGuid>b3a69ebf-4690-4c39-9562-773724ea0f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Guideline</value>
+      <webElementGuid>fd1e88b3-707f-4117-8675-6f8d12437071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-1&quot;)/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex flex-row btn-guideline mt-3 pointer&quot;]</value>
+      <webElementGuid>b3329deb-3789-4291-bcfe-355df6ddc273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>9ee9feca-07d0-4b21-999b-743e12f8f8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/wla_guideline_doc/2023-09-14/881ba4f3a2abb693b05c3d8334a1a8bf-2023-09-14.pdf'])[1]/following::div[1]</value>
+      <webElementGuid>45822fe7-957a-4777-bdd8-23bd59b68080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guideline Module'])[1]/following::div[2]</value>
+      <webElementGuid>8c6a21f3-6aef-4d5c-9b35-f0fb5a804325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[1]</value>
+      <webElementGuid>98568165-b346-4eb5-b094-b9d42cd93513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]</value>
+      <webElementGuid>568b9447-76ea-4d55-827c-13e232898cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Change Guideline' or . = 'Change Guideline')]</value>
+      <webElementGuid>4fbf2d30-774d-4b99-a594-bdd6b1dfdd11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

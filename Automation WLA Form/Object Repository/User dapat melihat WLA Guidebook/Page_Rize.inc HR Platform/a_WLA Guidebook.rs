@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WLA Guidebook</name>
+   <tag></tag>
+   <elementGuidId>c54dec17-06f0-46be-9e6e-8b9125e4aabc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.float-right.btnRsec.mr-2.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/main/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>800146bb-9c56-4a06-8db4-2adab67b5bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary float-right btnRsec mr-2 text-white</value>
+      <webElementGuid>6cd3a4d8-8d10-44ed-addb-083e936051b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>a2563f5a-5b7c-4662-97de-e0e6261c10ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cdn.okeeman47.site//wla_guideline_doc/2023-09-25/9958753fc22686d7d8f5be3540b96c3e-2023-09-25.pdf</value>
+      <webElementGuid>dcc1c6ab-1bd6-4591-ac0f-4d3b74620785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>f9de790f-5945-4582-8535-26eac74d46b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer</value>
+      <webElementGuid>af37896e-7557-406f-b7f8-9f30b2e18b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WLA Guidebook</value>
+      <webElementGuid>29f7d1c3-1c1d-4584-9efe-aa9c3dbc7bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main h-100 w-100 flex-column my-auto d-flex&quot;]/main[@class=&quot;main h-100 w-100&quot;]/div[@class=&quot;col-12 mx-auto h-100&quot;]/div[@class=&quot;row h-100&quot;]/div[@class=&quot;col-sm-10 col-md-12 mx-auto d-table h-100&quot;]/div[@class=&quot;d-table-cell align-middle&quot;]/div[@class=&quot;card-actions float-right absol&quot;]/a[@class=&quot;btn btn-primary float-right btnRsec mr-2 text-white&quot;]</value>
+      <webElementGuid>0850dd79-3704-4139-a646-9c9d932b6847</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/main/div/div/div/div/div[2]/a</value>
+      <webElementGuid>55801e56-c506-4532-8e09-7ce11a7a3e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'WLA Guidebook')]</value>
+      <webElementGuid>8267b1cc-27c9-42b5-a477-98262749ea0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neilsya Amstrani'])[1]/following::a[1]</value>
+      <webElementGuid>b7b5a947-244d-4255-ae28-dec56941d04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertamina Patra Niaga'])[1]/following::a[1]</value>
+      <webElementGuid>529dfbf7-2d7b-4d64-91a7-a1a24ed78830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/preceding::a[1]</value>
+      <webElementGuid>dbe5b592-7e98-46e7-b016-3f632f1ce2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Type'])[1]/preceding::a[1]</value>
+      <webElementGuid>888d2699-ca83-49a9-81ae-ae4591c18ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WLA Guidebook']/parent::*</value>
+      <webElementGuid>36992036-b21d-4481-b220-9a2c6a4af714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cdn.okeeman47.site//wla_guideline_doc/2023-09-25/9958753fc22686d7d8f5be3540b96c3e-2023-09-25.pdf')]</value>
+      <webElementGuid>d34ec1e8-674b-49f1-b683-7f0847a1a6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>f6007ffb-0d4b-4d0c-97ca-c9bb4b99bff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cdn.okeeman47.site//wla_guideline_doc/2023-09-25/9958753fc22686d7d8f5be3540b96c3e-2023-09-25.pdf' and (text() = 'WLA Guidebook' or . = 'WLA Guidebook')]</value>
+      <webElementGuid>76f0d726-13e9-48a0-9046-ae79f174c9ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

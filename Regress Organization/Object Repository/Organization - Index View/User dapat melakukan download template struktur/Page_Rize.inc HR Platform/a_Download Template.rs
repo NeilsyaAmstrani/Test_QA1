@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Download Template</name>
+   <tag></tag>
+   <elementGuidId>b73d92e0-d450-43e3-b523-5562bc2e27ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.float-right.btnRprim.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='importModal']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf75ba32-aada-43de-8a15-8db1a2bf385c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary float-right btnRprim mr-2</value>
+      <webElementGuid>8dbf361f-a15c-4c6c-951f-1020a440b4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/import-org-template.xlsx</value>
+      <webElementGuid>34fccbb1-0b31-46d1-95f1-27021f75b999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download Template</value>
+      <webElementGuid>ddeff0f3-65a4-4662-a0ea-e2343e2161c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/div[@id=&quot;importModal&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/a[@class=&quot;btn btn-primary float-right btnRprim mr-2&quot;]</value>
+      <webElementGuid>baeaa1b1-fb8a-4558-8c42-c08bf0087d1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='importModal']/div/div/div/a</value>
+      <webElementGuid>5a24c628-96a4-4fb2-8ab6-84be7b0aa057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Download Template')]</value>
+      <webElementGuid>f83c888d-3c3d-494f-8b2d-d371c2d4ab01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Structure Data'])[1]/following::a[1]</value>
+      <webElementGuid>e4b22ce0-cc2f-4724-8acf-6e82ac12d1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/following::a[1]</value>
+      <webElementGuid>99e997a8-ac7c-404f-bfec-3cb86ea44f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template dengan menggunakan button di kanan atas'])[1]/preceding::a[1]</value>
+      <webElementGuid>9556644d-86a1-4000-8134-5496d69d0d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isi data sesuai dengan keterangan yang ada pada template'])[1]/preceding::a[1]</value>
+      <webElementGuid>5b4970bb-d855-453b-b97d-de953ad22b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download Template']/parent::*</value>
+      <webElementGuid>2add4ce8-4c1d-4914-8abb-707d3df4226f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/import-org-template.xlsx')]</value>
+      <webElementGuid>cd9915a0-bf4f-46a3-bcd9-c78ead390329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>e46ff14d-7733-4a17-943c-5f6c15e9d3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/import-org-template.xlsx' and (text() = 'Download Template' or . = 'Download Template')]</value>
+      <webElementGuid>a1492759-c00d-4859-989b-f18368302e7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

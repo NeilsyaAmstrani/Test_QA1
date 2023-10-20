@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Search. type  to get help</name>
+   <tag></tag>
+   <elementGuidId>6e580abc-3233-4cec-8981-7b48c55485e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.boc-input > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree']/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3c19ca61-e6a3-4afc-80b5-f13ace822ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>_w1a6</value>
+      <webElementGuid>46a46add-a8e1-4495-aa0d-c1fb2ca5507f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search... type ? to get help.</value>
+      <webElementGuid>12202ac1-c20b-4943-95c1-fca6d82b18c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree&quot;)/div[@class=&quot;boc-search&quot;]/div[@class=&quot;boc-form-field&quot;]/div[@class=&quot;boc-input&quot;]/label[1]</value>
+      <webElementGuid>ad7410bf-77e8-481f-ae54-3721b8067d72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree']/div/div/div/label</value>
+      <webElementGuid>b385a715-c880-4cb7-9068-3be5addba9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personel'])[1]/following::label[1]</value>
+      <webElementGuid>b19f510e-581d-4358-a951-05ad034fbaec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::label[1]</value>
+      <webElementGuid>5e78aee3-15b9-4e79-8bfe-89659c54ce53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search... type ? to get help.']/parent::*</value>
+      <webElementGuid>57d2a716-6a6d-4b46-8601-f0a6e4e8daa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/label</value>
+      <webElementGuid>ea3fbbb0-1517-47f2-b638-18d7feef8944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Search... type ? to get help.' or . = 'Search... type ? to get help.')]</value>
+      <webElementGuid>df0fc5d7-ef9a-40a8-8120-76f93fe73aa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

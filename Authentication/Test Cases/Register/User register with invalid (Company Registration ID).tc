@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User register with invalid (Company Registration ID)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3d3d0f6-7528-4cb7-8649-4d9331f26348</testCaseGuid>
+</TestCaseEntity>

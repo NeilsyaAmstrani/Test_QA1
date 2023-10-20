@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_-</name>
+   <tag></tag>
+   <elementGuidId>b3ab526d-8bff-46ca-a970-8ec98f870817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[3]/div/div[2]/div/table[3]/tbody/tr/td/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-pill.btnRacc.badge.w-100.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3487973a-d100-4a22-80a8-be15bbb4928e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill btnRacc badge w-100 undefined</value>
+      <webElementGuid>481ba98a-9d81-4944-beb0-0f6dab863bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>86b400ee-0b8b-49b5-9019-c1b692e6089e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body rTMatrixCont p-0 pt-3&quot;]/div[@class=&quot;mb-4 inline-div rTMainMatrix&quot;]/table[@class=&quot;table col-1 table-striped table-hover rTOther rTOtherMatrix ml-2&quot;]/tbody[1]/tr[@class=&quot;false&quot;]/td[@class=&quot;false&quot;]/button[@class=&quot;btn btn-pill btnRacc badge w-100 undefined&quot;]</value>
+      <webElementGuid>d58f7b26-75f5-41e0-8e50-33bdb8e01a69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[3]/div/div[2]/div/table[3]/tbody/tr/td/button</value>
+      <webElementGuid>6faa426f-fe4b-4d0f-88d8-3487bf9ab0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CTO'])[2]/following::button[1]</value>
+      <webElementGuid>c3c5014a-8228-4c9d-ba5e-62a54c4aa17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPO'])[2]/following::button[1]</value>
+      <webElementGuid>5edf7f2b-6627-4815-ae06-d73d6c7abf49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::button[1]</value>
+      <webElementGuid>d5e5345b-a128-44e2-960d-1f9b6c3e6bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/preceding::button[2]</value>
+      <webElementGuid>712bc8dd-7ffe-4ac2-9c73-a77b95f90941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-']/parent::*</value>
+      <webElementGuid>1d42bbff-c1b4-4b4d-955d-b97aa1d91195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr/td/button</value>
+      <webElementGuid>a925abf8-fd85-4d35-9d13-29ac82c2e3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '-' or . = '-')]</value>
+      <webElementGuid>b528942e-feea-4d6e-9305-a5bffc327e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

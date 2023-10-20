@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat menambahkan employee baru sesuai struktur yang ada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92d9b067-2f5c-4a12-9652-1e6e6a01aba6</testCaseGuid>
+</TestCaseEntity>

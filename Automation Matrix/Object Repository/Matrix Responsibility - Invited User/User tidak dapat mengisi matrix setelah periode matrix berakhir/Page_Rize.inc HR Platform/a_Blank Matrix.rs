@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blank Matrix</name>
+   <tag></tag>
+   <elementGuidId>3ef10a27-7727-4273-b770-2650fde06465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btnRprim.float-right.btnRacc.mr-2.false</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb3b0e62-c1ab-4f24-8a04-9ac06b276f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnRprim float-right btnRacc mr-2 false</value>
+      <webElementGuid>63f33a62-d730-4a6f-85e0-094cd9b1694e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blank-matrix/975859be-d1f1-44cc-b9da-91eae174ed6d</value>
+      <webElementGuid>a694c271-2edb-423b-889b-16a8acbab027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blank Matrix</value>
+      <webElementGuid>6d7b6eca-fb32-4fc7-a19f-549a082f8ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;card-actions float-right pt1&quot;]/a[@class=&quot;btn btn-primary btnRprim float-right btnRacc mr-2 false&quot;]</value>
+      <webElementGuid>b1c1d78a-7793-4ae5-9983-0f53b52b57e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div/div[2]/a[2]</value>
+      <webElementGuid>c06a3288-6952-4a94-ba1f-9c7a04869f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Blank Matrix')]</value>
+      <webElementGuid>f3a21941-36df-4583-921e-a0961b9d2a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Matrix'])[1]/following::a[1]</value>
+      <webElementGuid>62f1b917-4d68-4eb4-a123-dfec686c7b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::a[4]</value>
+      <webElementGuid>82fba25c-6710-4fba-8587-209ed8468b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb15b7d6-a5e3-4ac2-b572-307b5f95dabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::a[1]</value>
+      <webElementGuid>97ea23af-5de5-4537-8206-deaa70445759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blank Matrix']/parent::*</value>
+      <webElementGuid>293344fc-9499-4a61-a1ce-f3b3c0d11744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blank-matrix/975859be-d1f1-44cc-b9da-91eae174ed6d')]</value>
+      <webElementGuid>5151a864-449a-4ce5-9a6c-501599352a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>1acd2819-2e0f-4436-a8d6-6a88db6357b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blank-matrix/975859be-d1f1-44cc-b9da-91eae174ed6d' and (text() = 'Blank Matrix' or . = 'Blank Matrix')]</value>
+      <webElementGuid>70547646-3e22-485e-8260-55293705617b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

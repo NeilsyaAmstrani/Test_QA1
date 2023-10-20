@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa melihat detail cost per activity berdasarkan activity yang di input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b474b0c-c2a5-4680-8cf2-2e6c0a943a0d</testCaseGuid>
+</TestCaseEntity>

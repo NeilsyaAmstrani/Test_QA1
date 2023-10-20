@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Custom Management</name>
+   <tag></tag>
+   <elementGuidId>8549c6be-dc6a-4cb1-8eca-be7894bfdfe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0e8831c-aab6-4277-aaa1-c068233e7e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary float-right btnRsec</value>
+      <webElementGuid>65029759-b5e3-40ac-9c98-4c7b93df2f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>646cfa33-b56e-43e7-aa99-3c9b36b7b058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#addWTModal</value>
+      <webElementGuid>98034729-5e77-4f1b-9d39-6de77c9a4131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Custom Management</value>
+      <webElementGuid>044c4119-5e01-4243-b083-b874a7f9fedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;horizontal-icon-tab-1&quot;]/div[@class=&quot;row my-3&quot;]/div[@class=&quot;col-4 pr-0&quot;]/button[@class=&quot;btn btn-primary float-right btnRsec&quot;]</value>
+      <webElementGuid>6ed4312f-a0b7-4689-afa6-4c2b2af1691c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='horizontal-icon-tab-1']/div/div[2]/button)[8]</value>
+      <webElementGuid>5567f7ab-b3aa-4e3c-984a-73225a70c1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Management'])[1]/following::button[1]</value>
+      <webElementGuid>a883860a-ef2b-4065-8f1e-91a4399c1bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created At'])[2]/following::button[1]</value>
+      <webElementGuid>50e0235e-d5fc-48c1-b65c-4a74c5c11403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[10]/preceding::button[1]</value>
+      <webElementGuid>90a12e1e-403b-4fcd-9fb6-a3cf0b52342f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[9]/preceding::button[1]</value>
+      <webElementGuid>25ccc824-68e4-4b88-a3db-4d527e074e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Custom Management']/parent::*</value>
+      <webElementGuid>56c40ca9-8e59-4885-a93f-46be53869fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/button</value>
+      <webElementGuid>18ddf928-fd4e-4e35-b2e9-f01a24f9d03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Custom Management' or . = 'Add Custom Management')]</value>
+      <webElementGuid>2db1ada9-513a-4e4c-8020-674e4ffaa4b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit Data</name>
+   <tag></tag>
+   <elementGuidId>4859ac95-c783-48c0-9d29-ef9756e0efb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-pill.btnRacc.badge</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='horizontal-icon-tab-1']/table/tbody/tr/td[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60b9fe1c-c332-4f04-9d39-584c42292e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill btnRacc badge</value>
+      <webElementGuid>b3958cf8-def2-47b2-82f8-6f8aa9b2d93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>d53bbd1c-99ad-426b-86c7-74f2852eba06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#editWTModal</value>
+      <webElementGuid>f3486719-bd39-4911-91de-3bbdb584a1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Data</value>
+      <webElementGuid>3de296d2-41d6-4f98-be80-d93dd3d8dd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;horizontal-icon-tab-1&quot;]/table[@class=&quot;table table-striped table-hover rTSeparate&quot;]/tbody[1]/tr[1]/td[3]/button[@class=&quot;btn btn-pill btnRacc badge&quot;]</value>
+      <webElementGuid>620ebeca-690c-4e80-8731-a4422de659e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='horizontal-icon-tab-1']/table/tbody/tr/td[3]/button</value>
+      <webElementGuid>aae5be1b-98f3-4a97-bb62-b11f9921fa10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FTE Normal 1'])[1]/following::button[1]</value>
+      <webElementGuid>0389bf18-7164-442d-96fb-7f5917639a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/following::button[1]</value>
+      <webElementGuid>4444cdb3-6baa-454d-8a88-6c62185845b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FTE Normal'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb7f23d9-4246-4ace-9a09-3d4d590b90c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[2]/preceding::button[1]</value>
+      <webElementGuid>4a84ecfc-cf7c-49f0-8579-5cf853be6399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Data']/parent::*</value>
+      <webElementGuid>517b0889-af3a-4954-8652-ad13b58621b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button</value>
+      <webElementGuid>352e0870-6323-411c-a452-08836c4fa8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit Data' or . = 'Edit Data')]</value>
+      <webElementGuid>d75a3ab0-c602-450b-b4f8-6c741e831426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

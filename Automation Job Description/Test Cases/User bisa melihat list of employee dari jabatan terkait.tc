@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa melihat list of employee dari jabatan terkait</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f79ee2-86ee-4990-b0d9-bd395e47543a</testCaseGuid>
+</TestCaseEntity>

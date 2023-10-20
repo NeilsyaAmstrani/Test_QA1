@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Child of Previous</name>
+   <tag></tag>
+   <elementGuidId>c780b954-fc33-46e6-b5c2-531c3df2c244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;49478380-e8f7-46fb-8de7-e75b02bdb692&quot;]/td[4]/div[1]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5d515a4-72b3-44df-93cb-85643e25b244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>4b08c8f8-b0a5-4904-8cf0-47696c84f658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Child of Previous</value>
+      <webElementGuid>64bbfe9e-8925-46ac-ad5b-d282cad057b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;757616d2-1b78-4c10-8805-a046d9464367&quot;)/td[4]/div[@class=&quot;btn-group mr-2 my-1&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>2f6d7142-8581-488f-adc2-99bfe1fc53ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='757616d2-1b78-4c10-8805-a046d9464367']/td[4]/div/div/div[3]</value>
+      <webElementGuid>91ab8d35-b104-475b-b7cb-b3daa391a239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Down'])[19]/following::div[1]</value>
+      <webElementGuid>79c59d53-4a70-4a84-8385-3cde648456c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Up'])[19]/following::div[2]</value>
+      <webElementGuid>36502cf3-16f4-4bfd-b769-6a26d26d849b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change to Parent'])[19]/preceding::div[1]</value>
+      <webElementGuid>156d514e-a1b8-4d02-b5b0-0caef127fafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Next'])[19]/preceding::div[2]</value>
+      <webElementGuid>fb42bfb5-f368-4595-9b61-e935c06642ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[19]/td[4]/div/div/div[3]</value>
+      <webElementGuid>6b3660bc-f0c7-46ce-ba40-e61fc0706f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Child of Previous' or . = 'Child of Previous')]</value>
+      <webElementGuid>7ef297af-bb12-4301-aaaf-d9c68861665b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='dcc3ee69-475c-482f-a436-42e3d163d7e7']/td[4]/div/div/div[3]</value>
+      <webElementGuid>d1817a92-5cf2-40c2-876a-620519a7bb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Down'])[30]/following::div[1]</value>
+      <webElementGuid>bc16f81b-8883-41ad-b816-decf6a6de703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Up'])[30]/following::div[2]</value>
+      <webElementGuid>9dbdb7df-5a05-45a4-b2ec-d7152943d918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='biz_process.tree.child_to_parent'])[19]/preceding::div[1]</value>
+      <webElementGuid>ca3fafe1-b999-47a8-be05-615eb8b7b9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Next'])[30]/preceding::div[2]</value>
+      <webElementGuid>680dc172-ccfc-4da3-8164-e63fcb764ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[30]/td[4]/div/div/div[3]</value>
+      <webElementGuid>6d132e68-95c5-4bee-b4ed-986b40f76b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

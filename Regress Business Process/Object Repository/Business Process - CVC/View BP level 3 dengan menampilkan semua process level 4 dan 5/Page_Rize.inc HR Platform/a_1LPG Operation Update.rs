@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1LPG Operation Update</name>
+   <tag></tag>
+   <elementGuidId>fd661420-ff0c-48ee-a5e3-17096a893246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div[2]/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.full-width</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68e774f4-9230-4071-9f43-0e2de43e902c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full-width</value>
+      <webElementGuid>3d58009e-3353-43c3-8532-47bd8f27ecec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-process/cvc/lvl-2/bcfb3905-798d-4535-af98-0c49a5542072</value>
+      <webElementGuid>20a720e6-7af9-4886-aee5-f616e9e2d05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1LPG Operation Update</value>
+      <webElementGuid>4798d547-09d9-49f1-a6f6-b6bc8135412f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/div[@class=&quot;row d-flex align-items-center mb-4&quot;]/ul[@class=&quot;chevron-core full-width&quot;]/li[1]/a[@class=&quot;full-width&quot;]</value>
+      <webElementGuid>b3064581-46f6-4dbb-813d-dc74a8ad4482</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>daf2036b-01c0-475d-90cd-d7290c9ae570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LPG Operation Update']/parent::*</value>
+      <webElementGuid>dba59ce4-2e60-43be-8f61-4f000261bbdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-process/cvc/lvl-2/bcfb3905-798d-4535-af98-0c49a5542072')]</value>
+      <webElementGuid>d29cb5da-8c9f-4c97-a22b-a039cbfc05c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>16ab2aa6-28ea-446d-9af4-fa031c54e7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-process/cvc/lvl-2/bcfb3905-798d-4535-af98-0c49a5542072' and (text() = '1LPG Operation Update' or . = '1LPG Operation Update')]</value>
+      <webElementGuid>96c5c50a-7771-4d30-8b8c-aaed1c95f6d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

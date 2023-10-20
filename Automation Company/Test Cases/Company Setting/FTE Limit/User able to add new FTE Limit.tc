@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to add new FTE Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d464382a-5d46-424e-8d5c-aa4e8264ef08</testCaseGuid>
+</TestCaseEntity>

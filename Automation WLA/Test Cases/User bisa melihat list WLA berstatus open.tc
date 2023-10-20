@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa melihat list WLA berstatus open</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d6facd6-a158-4832-83b6-f226017c4b1e</testCaseGuid>
+</TestCaseEntity>

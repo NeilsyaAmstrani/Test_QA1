@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User gagal editing Matrix Responsiblity pada saat status matrix masih open</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4329714e-9679-42a7-b41d-0571fedc5e19</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Previous</name>
+   <tag></tag>
+   <elementGuidId>c40c718a-67a3-4e0c-a6d7-0dd9de1ce8c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[4]/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75b3dd06-65b7-4c6d-9914-d1f352e1ef5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>b35f9769-e1ba-4ad5-9088-86db3e4773c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>865ce4e2-36ae-4f2f-9b91-1f8e749f2cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-process/create-tree/bcfb3905-798d-4535-af98-0c49a5542072/prev</value>
+      <webElementGuid>4c13bc39-fddf-48ed-b377-b6c1023845e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Previous</value>
+      <webElementGuid>a16cd0df-637c-4ac0-951f-204c171096a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bcfb3905-798d-4535-af98-0c49a5542072&quot;)/td[4]/div[@class=&quot;btn-group my-1&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>241cf570-5d9a-49b6-b539-c15fffc33959</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[4]/div[2]/div/a[2]</value>
+      <webElementGuid>9dc7ee46-1fd3-4122-a404-8bc753f28547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Previous')]</value>
+      <webElementGuid>383caf27-586c-4e29-b0e3-6bccf36b786a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Next'])[1]/following::a[1]</value>
+      <webElementGuid>668ef0aa-6cc7-4268-bb24-7fda3e10c014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change to Parent'])[1]/following::a[2]</value>
+      <webElementGuid>7aff9bab-b87b-4f2d-8cc3-dfce857fbd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Child'])[1]/preceding::a[1]</value>
+      <webElementGuid>ad14a56f-6004-4ef8-8671-43b2ff1c1ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[1]/preceding::a[2]</value>
+      <webElementGuid>296e7014-f53a-46e5-a679-05fd29e679d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Previous']/parent::*</value>
+      <webElementGuid>95657c4b-3710-478a-bcc0-08c272604c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-process/create-tree/bcfb3905-798d-4535-af98-0c49a5542072/prev')]</value>
+      <webElementGuid>1fc921f2-2ef7-4284-9a92-c556b32075eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>9349f406-1a6f-44a2-8e3c-c8df75654446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-process/create-tree/bcfb3905-798d-4535-af98-0c49a5542072/prev' and (text() = 'Add Previous' or . = 'Add Previous')]</value>
+      <webElementGuid>6a015e9f-e3e7-42e9-95b2-f7366d000878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

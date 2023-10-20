@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat set ordering by Job Level ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c25e2668-5859-42f0-908e-5641cf23f2f0</testCaseGuid>
+</TestCaseEntity>

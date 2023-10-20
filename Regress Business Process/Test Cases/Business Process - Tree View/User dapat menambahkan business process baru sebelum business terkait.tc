@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat menambahkan business process baru sebelum business terkait</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac6a0332-eca3-45e3-a68d-06e5c8feea6d</testCaseGuid>
+</TestCaseEntity>

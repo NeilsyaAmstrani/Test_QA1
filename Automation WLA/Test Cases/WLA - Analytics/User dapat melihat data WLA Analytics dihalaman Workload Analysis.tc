@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat data WLA Analytics dihalaman Workload Analysis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c33e606c-ee3e-4c95-8668-e146b758eaa8</testCaseGuid>
+</TestCaseEntity>

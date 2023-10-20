@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Child</name>
+   <tag></tag>
+   <elementGuidId>61ee59d0-ab1b-4d88-82b0-162394085921</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[4]/div[2]/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d69dc80e-8467-4e73-80a3-1a8489c02c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>4159eb5b-c0a4-43c9-a847-e0bc474ac0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b2f8c519-8567-485f-83c5-fa28df7e746d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-process/create-tree-child/bcfb3905-798d-4535-af98-0c49a5542072/2/LPG Operation Update update</value>
+      <webElementGuid>062030ae-43cb-428e-8d4f-dc958c91ffe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Child</value>
+      <webElementGuid>cf7173dd-b928-4d68-8b37-173a79cab5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bcfb3905-798d-4535-af98-0c49a5542072&quot;)/td[4]/div[@class=&quot;btn-group my-1&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>f4c53cd9-d0d8-4250-a367-d07535f4740f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[4]/div[2]/div/a[3]</value>
+      <webElementGuid>6edd8aa7-e9d1-4d73-9d46-c965d6a80c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Child')]</value>
+      <webElementGuid>e547c963-c148-40de-a623-00ba8edea68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Previous'])[1]/following::a[1]</value>
+      <webElementGuid>1b9ce218-ea22-4571-9373-53fa505efa7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Next'])[1]/following::a[2]</value>
+      <webElementGuid>b5a6c2fe-98a4-4f91-aed9-5708149f0933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[1]/preceding::a[1]</value>
+      <webElementGuid>66dd333d-b97c-405d-8722-15eb178183f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer LPG Supply &amp; Distribution Operation'])[1]/preceding::a[2]</value>
+      <webElementGuid>301f759f-0825-49eb-8810-95adff4ea5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Child']/parent::*</value>
+      <webElementGuid>5a2fe589-c3a2-4267-8d7f-edb5c5b7992d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-process/create-tree-child/bcfb3905-798d-4535-af98-0c49a5542072/2/LPG Operation Update update')]</value>
+      <webElementGuid>75a8147e-27fe-4a11-87e0-6504f8e373c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[3]</value>
+      <webElementGuid>d36d0cd5-9530-4bf3-a0b9-2909bdc47253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-process/create-tree-child/bcfb3905-798d-4535-af98-0c49a5542072/2/LPG Operation Update update' and (text() = 'Add Child' or . = 'Add Child')]</value>
+      <webElementGuid>88a3bf89-543c-4a4d-bbb6-840a5a1cb994</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

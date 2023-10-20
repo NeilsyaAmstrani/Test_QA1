@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Cost Activity</name>
+   <tag></tag>
+   <elementGuidId>b4a86413-b580-475c-b0e9-4068d2b08c42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(9)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div/div[2]/div/div/table/thead/tr[3]/td[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dd1dba61-17d9-4318-91c2-abaf3d55d58c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost /Activity</value>
+      <webElementGuid>e5639e70-4fa6-4958-aa82-cd886447db21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row d-flex align-items-center mb-4&quot;]/div[@class=&quot;align-self-center w-100 rTMatrixCont&quot;]/div[@class=&quot;h-fhd&quot;]/table[@class=&quot;table table-striped table-hover rTFocusMatrix&quot;]/thead[1]/tr[3]/td[9]</value>
+      <webElementGuid>187a9b39-746b-402b-ad9b-1572f54dab04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div/div[2]/div/div/table/thead/tr[3]/td[9]</value>
+      <webElementGuid>17f83fe9-3ad5-4350-8e49-72e61e039b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggung Jawab 1'])[1]/preceding::td[1]</value>
+      <webElementGuid>18400624-9d30-4d13-ad0f-747216c532d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perencanaan'])[1]/preceding::td[2]</value>
+      <webElementGuid>67ddf249-156c-4316-b252-f4e875a928a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cost /Activity']/parent::*</value>
+      <webElementGuid>58ba4006-62e0-4934-aeb5-8a609a6a0d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]</value>
+      <webElementGuid>9348a5e5-1fe6-4803-8d0c-0ba50bb03a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Cost /Activity' or . = 'Cost /Activity')]</value>
+      <webElementGuid>5a6101e6-cde4-48b3-a987-c2bc95504058</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

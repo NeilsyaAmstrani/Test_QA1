@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Move Up</name>
+   <tag></tag>
+   <elementGuidId>7acd1a7a-e156-4712-9321-9cc5a8816a73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='d77c6307-2e0c-4f99-b022-1a2a28e79685']/td[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07366db7-01bc-4f18-8c16-fd3a6a022f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9b305805-b310-4731-85d6-cebf0fd23081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>44d9587c-9874-4cfb-b97b-2416b912518b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move Up</value>
+      <webElementGuid>ebabf391-4b87-4f07-8e69-4e26978c9829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d77c6307-2e0c-4f99-b022-1a2a28e79685&quot;)/td[4]/div[@class=&quot;btn-group mr-2 my-1&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>368c0603-6b7f-4473-b904-307efa77877f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='d77c6307-2e0c-4f99-b022-1a2a28e79685']/td[4]/div/div/div</value>
+      <webElementGuid>2f0b2c65-45ea-48af-8b27-9d15ecb7adca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steering Governance'])[1]/following::div[3]</value>
+      <webElementGuid>8b886fe8-8b81-4992-b85c-a63a0c2accb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Import B'])[1]/following::div[3]</value>
+      <webElementGuid>feae44b7-8266-428e-b6ea-13a8df9b554d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Down'])[31]/preceding::div[1]</value>
+      <webElementGuid>744b61bf-0c69-460f-ad35-031391f1ff31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child of Previous'])[31]/preceding::div[2]</value>
+      <webElementGuid>474cedf5-c27b-4cf1-9b68-b19a9a72b56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[31]/td[4]/div/div/div</value>
+      <webElementGuid>6c7f2547-db46-48a0-bae8-a88dd2ccab67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Move Up' or . = 'Move Up')]</value>
+      <webElementGuid>5b74740c-6d60-40c9-b536-f7ec88c86785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Down'])[30]/preceding::div[1]</value>
+      <webElementGuid>34dc179a-7b2a-4b80-9f9d-db8e3713bd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child of Previous'])[30]/preceding::div[2]</value>
+      <webElementGuid>cbe66ebf-b266-4098-924c-a6725843100f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[30]/td[4]/div/div/div</value>
+      <webElementGuid>5c94ee67-d005-4be9-a132-f78954931d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Down'])[22]/preceding::div[1]</value>
+      <webElementGuid>15e26a3d-8ce6-4e8e-ab57-26c35c8b0557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child of Previous'])[22]/preceding::div[2]</value>
+      <webElementGuid>4c99ab1c-7435-42fb-99f6-01e39000606e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[22]/td[4]/div/div/div</value>
+      <webElementGuid>2b5bfaea-5d5b-4c52-8e48-cdc1ac723b74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

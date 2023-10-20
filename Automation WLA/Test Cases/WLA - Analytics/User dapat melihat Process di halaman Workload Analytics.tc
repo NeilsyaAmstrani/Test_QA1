@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat Process di halaman Workload Analytics</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bdf3468-302a-40fb-a006-0d33364b3272</testCaseGuid>
+</TestCaseEntity>

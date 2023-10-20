@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Process_fa fa-plus rTreeCollapse mr-2</name>
+   <tag></tag>
+   <elementGuidId>362c885d-ac97-4568-aed0-798ecc668e74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='1.0']/td/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus.rTreeCollapse.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e033bac2-6ca4-4ec5-bf82-e413b5e56087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus rTreeCollapse mr-2</value>
+      <webElementGuid>40af39d6-a580-4fd9-afa0-b33c1352075c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1.0&quot;)/td[@class=&quot;d-flex justify-content-start align-items-center&quot;]/i[@class=&quot;fa fa-plus rTreeCollapse mr-2&quot;]</value>
+      <webElementGuid>fd8e7bcb-4019-440a-a0de-e91e36641ed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='1.0']/td/i</value>
+      <webElementGuid>b88a0ff5-784b-4448-95b4-dd80ffcc7834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/i</value>
+      <webElementGuid>234692cd-d493-474c-8d2c-dfd8ac05e82e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

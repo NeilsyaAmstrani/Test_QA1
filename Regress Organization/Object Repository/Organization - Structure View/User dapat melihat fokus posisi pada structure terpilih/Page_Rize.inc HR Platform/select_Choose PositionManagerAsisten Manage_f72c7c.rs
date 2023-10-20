@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Choose PositionManagerAsisten Manage_f72c7c</name>
+   <tag></tag>
+   <elementGuidId>a68ebf06-e710-42d7-a3c5-0e4db419cff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#inputState</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='inputState']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>28c470e7-2114-4c5a-80b3-3bbf31e50879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputState</value>
+      <webElementGuid>2e7b9038-81c4-48ce-80a7-b3e541b1ca4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ml-3</value>
+      <webElementGuid>2cea57af-c5d0-4693-9cf6-d9a03286aea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose PositionManagerAsisten Manager 1Manager 1Manager 2</value>
+      <webElementGuid>25cf56be-2e9b-47d4-bbe8-bef05fd374ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputState&quot;)</value>
+      <webElementGuid>49cc14f5-498c-455a-8687-8fa7c038abf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='inputState']</value>
+      <webElementGuid>fd9dc710-ae70-46f3-bbaa-cd640c8a7614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/form/div/select</value>
+      <webElementGuid>48bbc1cc-64a4-4d36-94d5-b153aed9a8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Top Position'])[1]/following::select[1]</value>
+      <webElementGuid>b26832d0-c433-44ff-9672-a15d609d086b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Structure View'])[2]/following::select[1]</value>
+      <webElementGuid>c3de1bca-6186-4340-ac5c-933512560930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Structural'])[1]/preceding::select[1]</value>
+      <webElementGuid>2f033c69-c625-4c15-a358-2735a45580d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::select[1]</value>
+      <webElementGuid>dedcb7f4-0611-4efa-b9ae-eb9ae468b1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c68cd171-5c62-4ada-af45-c8d46d8d2046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'inputState' and (text() = 'Choose PositionManagerAsisten Manager 1Manager 1Manager 2' or . = 'Choose PositionManagerAsisten Manager 1Manager 1Manager 2')]</value>
+      <webElementGuid>1f2e5b64-9062-4c37-9539-95f63de5f4c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

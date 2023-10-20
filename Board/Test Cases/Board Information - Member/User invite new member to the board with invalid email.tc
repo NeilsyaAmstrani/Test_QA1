@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User invite new member to the board with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6617c2a8-3820-40c9-a20a-9e0dc6f69bd2</testCaseGuid>
+</TestCaseEntity>

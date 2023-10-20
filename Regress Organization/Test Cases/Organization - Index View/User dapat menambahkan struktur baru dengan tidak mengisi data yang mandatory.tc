@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat menambahkan struktur baru dengan tidak mengisi data yang mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f23a2d48-6da0-402f-bc07-5a684b7ed744</testCaseGuid>
+</TestCaseEntity>

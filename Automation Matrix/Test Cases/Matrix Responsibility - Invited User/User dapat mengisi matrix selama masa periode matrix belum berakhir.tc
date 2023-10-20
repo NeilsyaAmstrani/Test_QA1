@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat mengisi matrix selama masa periode matrix belum berakhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8dfc4e7-f91c-4cbd-9980-9afb54613a31</testCaseGuid>
+</TestCaseEntity>

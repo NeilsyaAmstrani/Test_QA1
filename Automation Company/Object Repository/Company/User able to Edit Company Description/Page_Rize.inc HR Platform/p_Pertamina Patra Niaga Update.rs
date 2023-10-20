@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Pertamina Patra Niaga Update</name>
+   <tag></tag>
+   <elementGuidId>4abe8922-8f76-46de-93d3-6009d72bfd16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[2]/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c14907f0-2b5c-4e99-b1a3-7944fef3ab0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pertamina Patra Niaga Update</value>
+      <webElementGuid>add192e6-c06c-4109-9287-497839b06d15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-1&quot;)/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;quill&quot;]/div[@class=&quot;ql-container ql-snow&quot;]/div[@class=&quot;ql-editor&quot;]/p[1]</value>
+      <webElementGuid>d59ba015-037a-4eca-b59d-ac0e9c45d6c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-icon-tab-1']/form/div/div[2]/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>f9b36287-ce79-4674-9118-c25b4d0cb63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::p[1]</value>
+      <webElementGuid>148f530e-493c-4384-9c0e-4db855271b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name'])[1]/following::p[1]</value>
+      <webElementGuid>06c31d69-8e02-4bcd-a360-f198c5f4cf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guideline Module'])[1]/preceding::p[1]</value>
+      <webElementGuid>f30554ad-5fee-490a-a66f-70532976b6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/wla_guideline_doc/2023-09-13/a6baad35288bab093e8682a998162a53-2023-09-13.pdf'])[1]/preceding::p[1]</value>
+      <webElementGuid>23756671-2fe4-425c-b392-b76b5e243e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>c9480072-96be-4983-92fe-6cb8a0569fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pertamina Patra Niaga Update' or . = 'Pertamina Patra Niaga Update')]</value>
+      <webElementGuid>87c7dbb8-cb3c-4235-a26d-31fe25dec215</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

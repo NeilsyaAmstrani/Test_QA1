@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User melakukan import data Struktur (Add) dengan data NIK yang sudah terpakai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76688f76-b5e7-44f2-80f9-66bb5ed7d4ac</testCaseGuid>
+</TestCaseEntity>

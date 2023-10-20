@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to see all existing FTE Limit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5f50537-612b-4768-96a0-d96aa986a87f</testCaseGuid>
+</TestCaseEntity>

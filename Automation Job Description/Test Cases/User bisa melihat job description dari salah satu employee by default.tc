@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa melihat job description dari salah satu employee by default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8c8dfc2-f98d-4ccd-b824-e86cde78b494</testCaseGuid>
+</TestCaseEntity>

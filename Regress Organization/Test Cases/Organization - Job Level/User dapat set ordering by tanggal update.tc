@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat set ordering by tanggal update</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0755480-18d4-472d-987d-10beed50bd93</testCaseGuid>
+</TestCaseEntity>

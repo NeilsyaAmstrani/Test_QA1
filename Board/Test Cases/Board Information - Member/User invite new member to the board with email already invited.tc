@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User invite new member to the board with email already invited</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0401f0f-53cd-421c-8022-a101a3007688</testCaseGuid>
+</TestCaseEntity>

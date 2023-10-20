@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Data</name>
+   <tag></tag>
+   <elementGuidId>17ed5c10-ef40-445d-9335-7df9afb92fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9583607d-3737-4702-82e2-bd259c616ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill btnRacc badge mr-2 </value>
+      <webElementGuid>13ad2399-d4f9-47f3-9282-e80e90d03259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/business-process/update/bcfb3905-798d-4535-af98-0c49a5542072</value>
+      <webElementGuid>8043b993-4804-4764-8d0f-6982b83cea3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Data</value>
+      <webElementGuid>0993a076-a715-4f4c-95e2-4d2d51fe93bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bcfb3905-798d-4535-af98-0c49a5542072&quot;)/td[5]/a[@class=&quot;btn btn-pill btnRacc badge mr-2&quot;]</value>
+      <webElementGuid>d6cb92bc-ebf4-4150-89e4-a02ccc43f875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='bcfb3905-798d-4535-af98-0c49a5542072']/td[5]/a</value>
+      <webElementGuid>590f803e-3bec-4b11-82b9-8595318909be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Data')]</value>
+      <webElementGuid>c3792359-77b9-4e20-a965-ab903ee84f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Child'])[1]/following::a[1]</value>
+      <webElementGuid>f3c60486-4906-4ace-8412-7befe2ded580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Previous'])[1]/following::a[2]</value>
+      <webElementGuid>f9f86ea1-1fdd-40e7-9b15-763d89b25302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer LPG Supply &amp; Distribution Operation'])[1]/preceding::a[1]</value>
+      <webElementGuid>fa2eaa4a-af42-44e1-844f-506213ec253a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Process'])[2]/preceding::a[1]</value>
+      <webElementGuid>d2f15be8-177f-4c9c-8330-4c2743d14c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Data']/parent::*</value>
+      <webElementGuid>f1802f8b-8837-4bb9-9105-d633881a9a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/business-process/update/bcfb3905-798d-4535-af98-0c49a5542072')]</value>
+      <webElementGuid>eaf71124-7072-4cb4-a62d-4a78713492cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>41093380-eb0b-477b-a187-9ea61a8762b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/business-process/update/bcfb3905-798d-4535-af98-0c49a5542072' and (text() = 'Edit Data' or . = 'Edit Data')]</value>
+      <webElementGuid>d3bb05b4-afa8-4f85-8e1d-ba0019c44ee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

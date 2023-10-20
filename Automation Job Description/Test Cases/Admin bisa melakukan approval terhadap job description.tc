@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin bisa melakukan approval terhadap job description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdd2b09c-28b1-4966-aa0c-07793ac7bfa3</testCaseGuid>
+</TestCaseEntity>

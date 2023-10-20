@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Set As Archived</name>
+   <tag></tag>
+   <elementGuidId>0fcf35ac-8373-44a3-a277-258532ab3ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#approvalStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='approvalStatus']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7fbf6240-d967-420c-a772-f02e3e4f593f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>approvalStatus</value>
+      <webElementGuid>4cef5ecc-2b5f-4ab4-a154-bb990e885281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle btn btn-sm bt100 btnRprim rStatusButton badge</value>
+      <webElementGuid>6d73a718-1f7f-4671-88fa-7f9a97572fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set As Archived</value>
+      <webElementGuid>ade55e66-5281-4a1a-a832-4623f9120f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approvalStatus&quot;)</value>
+      <webElementGuid>15c20f35-e5af-4a99-a48d-cfd3b38d1682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='approvalStatus']</value>
+      <webElementGuid>72e4ca0b-86c6-433e-b343-2dd8b4510228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/main/div/div/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>2fffd817-5e11-49f2-a71a-af8d6d215ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Set As Archived')]</value>
+      <webElementGuid>846837d5-ab67-40d7-a37e-ac6f582bd67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[1]/following::a[1]</value>
+      <webElementGuid>8cb3b956-b13a-4a10-81b8-dd020278cdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Board'])[2]/following::a[2]</value>
+      <webElementGuid>1f095717-6187-478d-be3c-0d5070f5f7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/preceding::a[1]</value>
+      <webElementGuid>df24e3e0-be93-466e-8788-595e59415c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set As Review'])[1]/preceding::a[2]</value>
+      <webElementGuid>75e8eb7e-9bfe-4562-978d-658797937b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set As Archived']/parent::*</value>
+      <webElementGuid>b3576ea5-d57d-4cd0-b7c7-5496e3de1954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[2]</value>
+      <webElementGuid>437bf15e-99fe-4eb5-8157-b3ee4d7077e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'approvalStatus' and (text() = 'Set As Archived' or . = 'Set As Archived')]</value>
+      <webElementGuid>a64ecc37-9d54-4ed1-9fc6-987aad3d3a6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

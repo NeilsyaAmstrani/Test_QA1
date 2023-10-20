@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User add new worker type without providing mandatory form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce376514-ba96-43fd-8f06-e405df7c1b39</testCaseGuid>
+</TestCaseEntity>

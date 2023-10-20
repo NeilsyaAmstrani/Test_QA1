@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Basic InformationField cannot emptyProc_e4ea0f</name>
+   <tag></tag>
+   <elementGuidId>1f997753-1f86-4dd6-bd3b-f70dafc20420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e68f4ac7-cd23-4309-8b54-ed4867465049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>3b74c1ee-6005-40d0-95ba-2f2b3d8237df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic InformationField cannot emptyProcess NameField name cannot emptyProcess TypeDecision                                      Objective                                      Output                                      Financial                                      Non Financial                                      Functional Behaviour Competencies                                      Technical Behaviour Competencies                                      Functional Competenciespssst x1xs                                      </value>
+      <webElementGuid>d6f62081-f3d1-41cd-9885-9848d42748a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane edit&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>c1d65aa5-406e-4874-b56e-9cf1bd0dc329</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div</value>
+      <webElementGuid>7aed2c61-d54c-4616-b79b-ea8820518cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Process'])[2]/following::div[6]</value>
+      <webElementGuid>7b9ae0ba-6d18-465f-9848-82f8acb8f2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='\'])[2]/following::div[6]</value>
+      <webElementGuid>15bd2c04-dae7-4f76-a4ba-f3106fa844c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>3e696441-773a-43f1-b3c6-75a8164465b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Basic InformationField cannot emptyProcess NameField name cannot emptyProcess TypeDecision                                      Objective                                      Output                                      Financial                                      Non Financial                                      Functional Behaviour Competencies                                      Technical Behaviour Competencies                                      Functional Competenciespssst x1xs                                      ' or . = 'Basic InformationField cannot emptyProcess NameField name cannot emptyProcess TypeDecision                                      Objective                                      Output                                      Financial                                      Non Financial                                      Functional Behaviour Competencies                                      Technical Behaviour Competencies                                      Functional Competenciespssst x1xs                                      ')]</value>
+      <webElementGuid>241e04a8-fba5-4fd2-8882-36f37f26ca72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User menambahkan employee baru dengan NIK yang sudah terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a41bf0b4-e09d-4cbc-a360-dea133e37bc4</testCaseGuid>
+</TestCaseEntity>

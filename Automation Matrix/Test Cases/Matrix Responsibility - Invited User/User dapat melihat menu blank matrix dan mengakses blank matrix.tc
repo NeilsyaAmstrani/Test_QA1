@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat menu blank matrix dan mengakses blank matrix</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ee0a490-4a95-414d-946b-dfad1d797c93</testCaseGuid>
+</TestCaseEntity>

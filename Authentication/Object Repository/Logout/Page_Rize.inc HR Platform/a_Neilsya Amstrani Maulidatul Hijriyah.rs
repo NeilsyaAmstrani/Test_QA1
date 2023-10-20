@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Neilsya Amstrani Maulidatul Hijriyah</name>
+   <tag></tag>
+   <elementGuidId>412c3224-4c69-4924-a882-faa439eba312</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.nav-link-user.dropdown-toggle.d-none.d-sm-inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div[2]/ul/li/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5272987-9847-416b-9eb2-db390bed066f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link nav-link-user dropdown-toggle d-none d-sm-inline-block</value>
+      <webElementGuid>d5851d47-3087-42fc-821e-bf9096123ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Neilsya Amstrani Maulidatul Hijriyah</value>
+      <webElementGuid>653561fe-bde0-4382-8ba8-2f3ea73ec4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/nav[@class=&quot;navbar navbar-expand navbar-light bg-white sticky-top&quot;]/div[@class=&quot;navbar-collapse collapse justify-content-end&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link nav-link-user dropdown-toggle d-none d-sm-inline-block&quot;]</value>
+      <webElementGuid>c074a0c7-be63-4857-8021-90e1b83bce3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div[2]/ul/li/a[2]</value>
+      <webElementGuid>3dd7ab85-fc5c-47cb-94b0-f76c75482ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN'])[1]/following::a[2]</value>
+      <webElementGuid>cf62b897-7c82-40e7-a12a-0d98d35ceb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::a[2]</value>
+      <webElementGuid>806af82d-006b-4e12-a025-c5da3a94f27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[1]</value>
+      <webElementGuid>5c3c7506-1a2a-4621-80c1-c660ba820945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a[2]</value>
+      <webElementGuid>6a97a537-3706-488d-a67c-a3782f98d374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Neilsya Amstrani Maulidatul Hijriyah' or . = ' Neilsya Amstrani Maulidatul Hijriyah')]</value>
+      <webElementGuid>497670d9-ce1a-46b5-bdc8-1a81f6a9b9b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat data jumlah Modus rata-rata FTE di halaman WLA Analytics</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>323bc4c1-ef48-4492-9f14-ed9cb06837f8</testCaseGuid>
+</TestCaseEntity>

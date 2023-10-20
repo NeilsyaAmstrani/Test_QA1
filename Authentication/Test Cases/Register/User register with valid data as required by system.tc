@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User register with valid data as required by system</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d01237cb-aa2f-40df-b7e6-74b9befa32e5</testCaseGuid>
+</TestCaseEntity>

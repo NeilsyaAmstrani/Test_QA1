@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Standar Waktu Kerja_form-control form_a50bc9_1</name>
+   <tag></tag>
+   <elementGuidId>cbb580bb-099c-4448-b67f-168a3ba99a45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[1]/div/div/main/div/div/div/div[2]/div/div/form/div/div/div[2]/table/tbody/tr/td[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.d-flex.justify-content-center.flex-row > input.form-control.form-control-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cec42977-5fa3-4281-ad99-fd1e758571e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>af6ffbd9-8c0e-4a67-8ad4-2cacdfd13563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-sm</value>
+      <webElementGuid>13efd63d-09ce-4d58-ab9a-c6f284838268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Standard Activity</value>
+      <webElementGuid>8e275a30-9b61-4d64-a2aa-de8c257c2f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>aab7d7d3-4266-4fe2-ad75-c43578ac5979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/form[1]/div[@class=&quot;row rPane edit&quot;]/div[@class=&quot;col-12 col-md-12 pr2&quot;]/div[@class=&quot;form-group col-md-12&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[@class=&quot;d-flex justify-content-center flex-row&quot;]/input[@class=&quot;form-control form-control-sm&quot;]</value>
+      <webElementGuid>b0c3ba77-eadb-4d4e-93fe-4fbc717cd2da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='24']</value>
+      <webElementGuid>d84dd19e-2ff5-4fef-80df-721566bb35de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div/div/div/div[2]/div/div/form/div/div/div[2]/table/tbody/tr/td[2]/input</value>
+      <webElementGuid>8f0de790-6992-405d-89a7-4c5d80a64fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/input</value>
+      <webElementGuid>dcc7ec29-611f-4c31-8682-131d055df507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Standard Activity']</value>
+      <webElementGuid>555040b2-35db-4eb2-9781-4825baf27779</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

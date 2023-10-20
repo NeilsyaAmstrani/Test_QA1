@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_open</name>
+   <tag></tag>
+   <elementGuidId>12cbcc08-4338-4433-8edb-fb5d5e0633ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cell-8-f6047751-a54a-43ce-837b-7fa9fd3e5f6e']/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-pill.btnRprim.badge</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96752706-6c29-4d00-8339-121d4d2ad209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-pill btnRprim badge</value>
+      <webElementGuid>19ee7af8-91e8-40fd-b3a4-63e85821911f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>open</value>
+      <webElementGuid>7e9f162c-b92a-47be-8c7d-b91fc1611b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-8-f6047751-a54a-43ce-837b-7fa9fd3e5f6e&quot;)/button[@class=&quot;btn btn-pill btnRprim badge&quot;]</value>
+      <webElementGuid>351e47ad-88aa-496c-b137-5e4362da55fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cell-8-f6047751-a54a-43ce-837b-7fa9fd3e5f6e']/button</value>
+      <webElementGuid>004ed588-b6ae-4ca9-93af-26aa9884cde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region A'])[1]/following::button[1]</value>
+      <webElementGuid>5f3de88f-78f6-4905-b37f-728dce40b59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jr Assisstant Manager'])[1]/following::button[1]</value>
+      <webElementGuid>0eff17ce-c482-4ec2-987d-01a177617a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overload'])[1]/preceding::button[1]</value>
+      <webElementGuid>589a68be-e0d2-4330-a971-d94dd59f489f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harina'])[2]/preceding::button[2]</value>
+      <webElementGuid>19679468-6b60-4f74-a51c-216ccf98289a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='open']/parent::*</value>
+      <webElementGuid>6dff6885-cda5-4e91-99b0-887ab318a1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button</value>
+      <webElementGuid>43aaeb34-90fa-45d9-a877-8ec8f1169f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'open' or . = 'open')]</value>
+      <webElementGuid>f39ca8e8-6976-4fa4-91b0-e84524a72239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

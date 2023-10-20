@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Work Type Name1 Hari KerjaHari Kerja Pe_f12b45</name>
+   <tag></tag>
+   <elementGuidId>e8ebbf15-6b06-4276-8cd9-3142d384539e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body.m-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addWTModal']/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f457357e-411a-4769-b3bd-a76dc13a2be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body m-2</value>
+      <webElementGuid>871d762b-71f1-4fa7-8d36-ea023f96c7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Work Type Name1 Hari KerjaHari Kerja PermingguHarianMingguanBulananTahunanTotal Available Time Per YearCancelSubmit</value>
+      <webElementGuid>b97d9e81-a36b-4d58-9412-88aa417ba27f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-icon-tab-3&quot;)/div[@class=&quot;tab&quot;]/div[@class=&quot;tab-content&quot;]/div[@id=&quot;horizontal-icon-tab-1&quot;]/div[@id=&quot;addWTModal&quot;]/div[@class=&quot;modal-sm mx-auto my-auto h-100 d-flex&quot;]/div[@class=&quot;modal-content my-auto&quot;]/form[1]/div[@class=&quot;modal-body m-2&quot;]</value>
+      <webElementGuid>35d7813c-6a68-4ec7-9b35-db0558aedcc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addWTModal']/div/div/form/div</value>
+      <webElementGuid>6cbdb0f1-05e5-444f-840d-80f2efd2cbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Worker Type'])[1]/following::div[5]</value>
+      <webElementGuid>91ed2dd4-e97c-4ce6-a6e4-9d1629241e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div</value>
+      <webElementGuid>79de75b9-7b94-4f17-93b1-c1599e982d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Work Type Name1 Hari KerjaHari Kerja PermingguHarianMingguanBulananTahunanTotal Available Time Per YearCancelSubmit' or . = 'Work Type Name1 Hari KerjaHari Kerja PermingguHarianMingguanBulananTahunanTotal Available Time Per YearCancelSubmit')]</value>
+      <webElementGuid>51a82c68-1e87-4214-9fc8-acff39c6446a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

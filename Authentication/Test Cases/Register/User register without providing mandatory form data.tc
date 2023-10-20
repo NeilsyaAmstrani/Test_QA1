@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User register without providing mandatory form data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca27b316-dbf1-4fea-a2a2-8417256980dd</testCaseGuid>
+</TestCaseEntity>

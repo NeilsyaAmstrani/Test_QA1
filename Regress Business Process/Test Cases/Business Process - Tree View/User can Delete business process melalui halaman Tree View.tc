@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can Delete business process melalui halaman Tree View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d50241d-8999-4667-b2be-a5b082b07cc3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User add new Organization Parameter without Providing Mandatory Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a320549d-c2a8-4fea-ad66-70baec3bf9b6</testCaseGuid>
+</TestCaseEntity>

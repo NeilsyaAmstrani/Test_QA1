@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User dapat melihat Personnel di halaman Workload Analytics</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d5c6e42-76cd-4d91-b341-6131dd79a750</testCaseGuid>
+</TestCaseEntity>

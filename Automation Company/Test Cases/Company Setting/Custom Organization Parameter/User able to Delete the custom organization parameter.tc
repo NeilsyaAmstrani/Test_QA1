@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User able to Delete the custom organization parameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67d0995c-af3e-4779-bcb9-72dc3035d4f8</testCaseGuid>
+</TestCaseEntity>

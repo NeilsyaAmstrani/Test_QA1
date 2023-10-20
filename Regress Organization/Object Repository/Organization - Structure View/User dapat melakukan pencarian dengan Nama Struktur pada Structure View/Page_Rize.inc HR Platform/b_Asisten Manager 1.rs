@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Asisten Manager 1</name>
+   <tag></tag>
+   <elementGuidId>e3a518a9-c1d1-4e2e-bb4d-80c12c5050b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree']/div/div[2]/table/tbody/tr/td[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>4718487f-21e1-4ceb-b8c6-b27b1e5922b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asisten Manager 1</value>
+      <webElementGuid>d985c290-fce4-4fc8-b57a-76b9248e7d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree&quot;)/div[@class=&quot;boc-search&quot;]/div[2]/table[1]/tbody[1]/tr[1]/td[@class=&quot;boc-search-text-td&quot;]/b[1]</value>
+      <webElementGuid>eec54b03-92f8-4316-8e61-f5c3ae120682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree']/div/div[2]/table/tbody/tr/td[2]/b</value>
+      <webElementGuid>71d35839-45ae-4a5f-8f70-990ad052feda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search... type ? to get help.'])[1]/following::b[1]</value>
+      <webElementGuid>906061e4-7d11-4a80-b6ea-d27ab7f5a40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='isten Manager 1']/parent::*</value>
+      <webElementGuid>46c921b7-7521-4437-9fe7-35bd5f7d7e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>d646dac2-7c9b-4820-a964-f53b4648f18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Asisten Manager 1' or . = 'Asisten Manager 1')]</value>
+      <webElementGuid>9746e479-bf4f-4c94-a9bf-67711eb46315</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa melihat list WLA yang sudah pernah di input oleh user, per orang per jabatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6e604d2-8bf5-4030-80c8-3bcbfadf507a</testCaseGuid>
+</TestCaseEntity>

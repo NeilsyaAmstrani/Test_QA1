@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User bisa generate new job description version setelah merge data baru</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9917b4b-836c-430a-b129-ae436792e628</testCaseGuid>
+</TestCaseEntity>

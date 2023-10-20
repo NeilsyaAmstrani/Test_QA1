@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User melakukan import data Struktur (Add) dengan format yang tidak sesuai dengan template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a64509ae-31f8-41ef-a176-2203efa13e0b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User filtering Business Process by Name yang tidak terdaftar pada list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7f665d0-404e-43a8-90d1-f6bc72c2532f</testCaseGuid>
+</TestCaseEntity>
