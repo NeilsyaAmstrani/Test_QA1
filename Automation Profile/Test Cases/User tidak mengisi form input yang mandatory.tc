@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User tidak mengisi form input yang mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b327bb2e-97ef-488d-9c35-0a6dcd3acfda</testCaseGuid>
+</TestCaseEntity>

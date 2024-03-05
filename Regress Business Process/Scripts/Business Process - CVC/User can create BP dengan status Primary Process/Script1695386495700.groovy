@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Business Process - CVC/User can cr
 
 WebUI.click(findTestObject('Object Repository/Business Process - CVC/User can create BP dengan status Primary Process/Page_Rize.inc HR Platform/span_'))
 
-WebUI.click(findTestObject('Object Repository/Business Process - CVC/User can create BP dengan status Primary Process/Page_Rize.inc HR Platform/h2_Board Automation Business Process'))
+WebUI.click(findTestObject('Business Process - CVC/User can create BP dengan status Primary Process/Page_Rize.inc HR Platform/h2_Board Automation Business Process'))
 
 WebUI.click(findTestObject('Object Repository/Business Process - CVC/User can create BP dengan status Primary Process/Page_Rize.inc HR Platform/a_Business Process'))
 

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/main/div/div/div/div/div[2]</value>
+         <value>//*[@id=&quot;root&quot;]/div[1]/main/div/div/div[1]/div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8ba416e0-81b1-48b4-b397-19ca02f5e797</webElementGuid>
+      <webElementGuid>dec1d971-7e07-4bb7-af22-6f3c345f0daa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body my-2</value>
-      <webElementGuid>c6cda9d2-7bb9-45a6-b68e-0a34fd45318a</webElementGuid>
+      <webElementGuid>948a33d8-50a7-4f8b-bead-628b234de56a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Organization</value>
-      <webElementGuid>2d02b11c-a2fe-4f69-a9e7-da332be8b24a</webElementGuid>
+      <webElementGuid>e36f153a-9e58-4de7-8593-d2281f51da14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/div[1]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-xl-3 d-flex test false
               false&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]</value>
-      <webElementGuid>f57f64c2-65e2-4530-af36-bb9823bacc9e</webElementGuid>
+      <webElementGuid>42efbd4f-c142-4520-aa84-a4efb38e84f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/main/div/div/div/div/div[2]</value>
-      <webElementGuid>ea843b4a-00b6-4b8f-b111-beccf0ea1918</webElementGuid>
+      <webElementGuid>ea00117f-c715-4bea-b780-a98b7a8ffa48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::div[1]</value>
-      <webElementGuid>d3a2f0b8-6dba-40be-9b12-8c1c6c8fb8b5</webElementGuid>
+      <webElementGuid>7624ddc4-c756-4386-a3db-a5b6e3ac2cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate'])[1]/following::div[2]</value>
-      <webElementGuid>4b491a0d-f682-4ec9-bf9c-de5b7690587e</webElementGuid>
+      <webElementGuid>21e3b498-494c-4ffd-8784-35e4cf08c4f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/preceding::div[3]</value>
-      <webElementGuid>98ed1bdc-dc65-4e84-96af-68479cb66ab6</webElementGuid>
+      <webElementGuid>4b36f695-c586-44fa-9acf-62a2d8e6e58b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div/div/div[2]</value>
-      <webElementGuid>794c06c9-3ca4-4894-8555-2e5207b9311f</webElementGuid>
+      <webElementGuid>430bf860-22ff-4d0c-9f29-c2a2b6291710</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Organization' or . = 'Organization')]</value>
-      <webElementGuid>5975b80a-495c-442a-a231-acc02df46561</webElementGuid>
+      <webElementGuid>bb8aef74-0014-4a6c-93bb-3d354418e510</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

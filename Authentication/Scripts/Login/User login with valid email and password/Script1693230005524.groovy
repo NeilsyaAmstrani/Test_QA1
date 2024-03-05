@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.okeeman47.site/signin')
 
-WebUI.setText(findTestObject('Object Repository/Login/Login Success/Page_Rize.inc HR Platform/input_Email_email'), 'neilsyaams0902@gmail.com')
+WebUI.setText(findTestObject('Login/Login Success/Page_Rize.inc HR Platform/input_Email_email'), 'neilsyaams0902@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Login/Login Success/Page_Rize.inc HR Platform/input_Password_password'), 
     's+uvtlFtM0Q=')

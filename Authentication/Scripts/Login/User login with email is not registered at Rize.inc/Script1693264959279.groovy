@@ -23,8 +23,6 @@ WebUI.navigateToUrl('https://dev.okeeman47.site/signin')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/input_Email_email'), 'testing@gmail.com')
-
 WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/input_Password_password'), 'fzqqY0qJjYTuJiVJRZh4ag==')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/button_Sign in'))
@@ -32,4 +30,6 @@ WebUI.click(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/bu
 WebUI.click(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/span_'))
 
 WebUI.closeBrowser()
+
+WebUI.setText(findTestObject('Object Repository/Login/Page_Rize.inc HR Platform/input_Email_email'), 'testing@gmail.com')
 

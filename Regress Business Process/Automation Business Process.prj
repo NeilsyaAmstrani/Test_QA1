@@ -4,8 +4,12 @@
    <name>Automation Business Process</name>
    <tag></tag>
    <UUID>f06a0992-52d0-4b02-97fd-9b3149163c3c</UUID>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/neilsya/Katalon Studio/Regress Dev/Regress Business Process/Automation Business Process.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

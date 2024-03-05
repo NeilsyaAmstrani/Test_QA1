@@ -6,11 +6,11 @@
    <elementGuidId>35db811b-5ec9-4a0f-bc3d-8802fd193e57</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div[1]/div/div/div/main/div/div/div[1]/div[1]/div[2]/div/div/h2</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[1]/main/div/div/div[1]/div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>e177cf63-84c6-40ba-a518-d1b8125c27cb</webElementGuid>
+      <webElementGuid>0619927e-2fd3-4237-a70c-0c8d2f203afa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>d-flex align-items-center mb-0</value>
-      <webElementGuid>bb89f638-5868-440f-bb79-39bcb055e621</webElementGuid>
+      <webElementGuid>3861e3fc-3863-4560-9cf9-bb0c6adfe3ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Board Automation Business Process</value>
-      <webElementGuid>6dd8aab5-6ba7-407d-8ed3-53a5ea0e64b9</webElementGuid>
+      <webElementGuid>f6a5a321-2b0e-4326-8b84-cc69606bf067</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;v_body&quot;]/div[1]/main[@class=&quot;content&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-xl-3 d-flex test false
               false&quot;]/div[@class=&quot;card flex-fill rCard&quot;]/div[@class=&quot;card-body my-2&quot;]/div[@class=&quot;row d-flex align-items-center mb-4&quot;]/div[@class=&quot;col-12&quot;]/h2[@class=&quot;d-flex align-items-center mb-0&quot;]</value>
-      <webElementGuid>fd502890-4193-4c1b-8ef4-af72f21869a9</webElementGuid>
+      <webElementGuid>c68b5321-b116-4988-8f5f-15da4c31c742</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/main/div/div/div[2]/div/div[2]/div/div/h2</value>
-      <webElementGuid>b684b966-2f1c-4b1a-9f5b-945b1864b3aa</webElementGuid>
+      <webElementGuid>79bda199-2bbf-4763-8b57-183adea69ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[2]/following::h2[1]</value>
-      <webElementGuid>d326c100-cf87-4f10-9d84-637786436542</webElementGuid>
+      <webElementGuid>75ce791d-e3bb-4c6e-ad98-de3cec903160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicate'])[2]/following::h2[1]</value>
-      <webElementGuid>ca18d5a6-e918-4804-9775-3d8f38b31323</webElementGuid>
+      <webElementGuid>33069d33-b7a2-49be-93f2-e2ee229e9154</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[2]/preceding::h2[1]</value>
-      <webElementGuid>7a0a2c92-2508-45d5-9b2c-ade275836e9a</webElementGuid>
+      <webElementGuid>75cf5c8f-cab8-4642-a238-e0fbc262d0fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Private'])[2]/preceding::h2[1]</value>
-      <webElementGuid>5c25b4cc-4818-46d9-82ac-c6cd9dea5719</webElementGuid>
+      <webElementGuid>fae46553-7765-430d-8743-ef50a10c48bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Board Automation Business Process']/parent::*</value>
-      <webElementGuid>76719e45-d73a-474b-b385-4a70e734e4a2</webElementGuid>
+      <webElementGuid>278e71cf-526e-42d3-a396-64c677bbb26c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/h2</value>
-      <webElementGuid>eb796867-31fa-4f4f-8cef-e0b16f9529b1</webElementGuid>
+      <webElementGuid>5acaaaf8-eebf-4204-a112-f15b6ba3054f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Board Automation Business Process' or . = 'Board Automation Business Process')]</value>
-      <webElementGuid>e2387a85-3b27-4a8c-a892-34efb043c886</webElementGuid>
+      <webElementGuid>6a7f9ea7-2512-4b76-9ed4-ac3988725046</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

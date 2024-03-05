@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User melakukan update profile (Picture) User dengan format file invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad4ce238-f524-469d-b6a9-fa4a337d5811</testCaseGuid>
+</TestCaseEntity>

@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/Business Process - Index View/User
 WebUI.click(findTestObject('Object Repository/Business Process - Index View/User can Import data Business Process dengan unggah file/Page_Rize.inc HR Platform/button_Import Data'))
 
 WebUI.uploadFile(findTestObject('Business Process - Index View/User can Import data Business Process dengan unggah file/Page_Rize.inc HR Platform/input_file'), 
-    'C:\\Users\\neils\\Downloads\\file_BP.xlsx')
+    '/Users/neilsya/Downloads/file_BP.xlsx')
 
 WebUI.click(findTestObject('Object Repository/Business Process - Index View/User can Import data Business Process dengan unggah file/Page_Rize.inc HR Platform/span_'))
 

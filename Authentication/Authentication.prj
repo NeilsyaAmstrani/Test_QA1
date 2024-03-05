@@ -4,8 +4,11 @@
    <name>Authentication</name>
    <tag></tag>
    <UUID>407936cb-e803-49f8-a769-9dcc2a835d88</UUID>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/neilsya/Katalon Studio/Regress Dev/Authentication/Authentication.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
